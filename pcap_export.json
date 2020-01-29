@@ -1,2243 +1,1955 @@
 {
  "links": [
   {
-   "source": 0,
-   "target": 1
+   "source": 295,
+   "target": 1.0
   },
   {
-   "source": 0,
-   "target": 2
+   "source": 295,
+   "target": 2.0
+  },
+  {
+   "source": 295,
+   "target": 3.0
+  },
+  {
+   "source": 295,
+   "target": 4.0
+  },
+  {
+   "source": 295,
+   "target": 5.0
+  },
+  {
+   "source": 295,
+   "target": 6.0
+  },
+  {
+   "source": 295,
+   "target": 7.0
+  },
+  {
+   "source": 295,
+   "target": 8.0
+  },
+  {
+   "source": 295,
+   "target": 9.0
+  },
+  {
+   "source": 1,
+   "target": 10.0
+  },
+  {
+   "source": 1,
+   "target": 11.0
+  },
+  {
+   "source": 10,
+   "target": 12.0
+  },
+  {
+   "source": 10,
+   "target": 13.0
+  },
+  {
+   "source": 10,
+   "target": 14.0
+  },
+  {
+   "source": 10,
+   "target": 15.0
+  },
+  {
+   "source": 10,
+   "target": 16.0
+  },
+  {
+   "source": 10,
+   "target": 17.0
+  },
+  {
+   "source": 10,
+   "target": 18.0
+  },
+  {
+   "source": 11,
+   "target": 19.0
+  },
+  {
+   "source": 11,
+   "target": 20.0
+  },
+  {
+   "source": 11,
+   "target": 21.0
+  },
+  {
+   "source": 11,
+   "target": 22.0
+  },
+  {
+   "source": 19,
+   "target": 23.0
+  },
+  {
+   "source": 19,
+   "target": 24.0
+  },
+  {
+   "source": 19,
+   "target": 25.0
+  },
+  {
+   "source": 19,
+   "target": 26.0
+  },
+  {
+   "source": 19,
+   "target": 27.0
+  },
+  {
+   "source": 19,
+   "target": 28.0
+  },
+  {
+   "source": 19,
+   "target": 29.0
+  },
+  {
+   "source": 19,
+   "target": 30.0
+  },
+  {
+   "source": 19,
+   "target": 31.0
+  },
+  {
+   "source": 19,
+   "target": 32.0
+  },
+  {
+   "source": 19,
+   "target": 33.0
+  },
+  {
+   "source": 19,
+   "target": 34.0
+  },
+  {
+   "source": 19,
+   "target": 35.0
+  },
+  {
+   "source": 19,
+   "target": 36.0
+  },
+  {
+   "source": 19,
+   "target": 37.0
+  },
+  {
+   "source": 19,
+   "target": 38.0
+  },
+  {
+   "source": 19,
+   "target": 39.0
+  },
+  {
+   "source": 19,
+   "target": 40.0
+  },
+  {
+   "source": 19,
+   "target": 41.0
+  },
+  {
+   "source": 19,
+   "target": 42.0
+  },
+  {
+   "source": 19,
+   "target": 43.0
+  },
+  {
+   "source": 19,
+   "target": 44.0
+  },
+  {
+   "source": 19,
+   "target": 45.0
+  },
+  {
+   "source": 20,
+   "target": 46.0
+  },
+  {
+   "source": 20,
+   "target": 47.0
+  },
+  {
+   "source": 20,
+   "target": 48.0
+  },
+  {
+   "source": 20,
+   "target": 49.0
+  },
+  {
+   "source": 20,
+   "target": 50.0
+  },
+  {
+   "source": 20,
+   "target": 51.0
+  },
+  {
+   "source": 20,
+   "target": 52.0
+  },
+  {
+   "source": 20,
+   "target": 53.0
+  },
+  {
+   "source": 21,
+   "target": 54.0
+  },
+  {
+   "source": 21,
+   "target": 55.0
+  },
+  {
+   "source": 21,
+   "target": 56.0
+  },
+  {
+   "source": 21,
+   "target": 57.0
+  },
+  {
+   "source": 21,
+   "target": 58.0
+  },
+  {
+   "source": 22,
+   "target": 59.0
+  },
+  {
+   "source": 22,
+   "target": 60.0
+  },
+  {
+   "source": 22,
+   "target": 61.0
+  },
+  {
+   "source": 22,
+   "target": 62.0
+  },
+  {
+   "source": 22,
+   "target": 63.0
+  },
+  {
+   "source": 22,
+   "target": 64.0
+  },
+  {
+   "source": 22,
+   "target": 65.0
+  },
+  {
+   "source": 22,
+   "target": 66.0
+  },
+  {
+   "source": 22,
+   "target": 67.0
+  },
+  {
+   "source": 22,
+   "target": 68.0
+  },
+  {
+   "source": 22,
+   "target": 69.0
+  },
+  {
+   "source": 22,
+   "target": 70.0
+  },
+  {
+   "source": 22,
+   "target": 71.0
+  },
+  {
+   "source": 22,
+   "target": 72.0
+  },
+  {
+   "source": 22,
+   "target": 73.0
+  },
+  {
+   "source": 22,
+   "target": 74.0
+  },
+  {
+   "source": 22,
+   "target": 75.0
+  },
+  {
+   "source": 22,
+   "target": 76.0
   },
   {
    "source": 2,
-   "target": 3
-  },
-  {
-   "source": 3,
-   "target": 4
-  },
-  {
-   "source": 3,
-   "target": 5
-  },
-  {
-   "source": 3,
-   "target": 6
-  },
-  {
-   "source": 3,
-   "target": 7
-  },
-  {
-   "source": 3,
-   "target": 336
-  },
-  {
-   "source": 3,
-   "target": 9
-  },
-  {
-   "source": 3,
-   "target": 10
+   "target": 77.0
   },
   {
    "source": 2,
-   "target": 11
+   "target": 78.0
   },
   {
-   "source": 11,
-   "target": 12
+   "source": 77,
+   "target": 79.0
   },
   {
-   "source": 12,
-   "target": 13
+   "source": 77,
+   "target": 80.0
   },
   {
-   "source": 12,
-   "target": 353
+   "source": 77,
+   "target": 81.0
   },
   {
-   "source": 12,
-   "target": 388
+   "source": 79,
+   "target": 82.0
   },
   {
-   "source": 12,
-   "target": 309
+   "source": 79,
+   "target": 83.0
   },
   {
-   "source": 12,
-   "target": 311
+   "source": 79,
+   "target": 84.0
   },
   {
-   "source": 12,
-   "target": 356
+   "source": 79,
+   "target": 85.0
   },
   {
-   "source": 12,
-   "target": 19
+   "source": 79,
+   "target": 86.0
   },
   {
-   "source": 12,
-   "target": 20
+   "source": 79,
+   "target": 87.0
   },
   {
-   "source": 12,
-   "target": 321
+   "source": 79,
+   "target": 88.0
   },
   {
-   "source": 12,
-   "target": 362
+   "source": 79,
+   "target": 89.0
   },
   {
-   "source": 12,
-   "target": 403
+   "source": 79,
+   "target": 90.0
   },
   {
-   "source": 12,
-   "target": 24
+   "source": 79,
+   "target": 91.0
   },
   {
-   "source": 12,
-   "target": 325
+   "source": 79,
+   "target": 92.0
   },
   {
-   "source": 12,
-   "target": 26
+   "source": 79,
+   "target": 93.0
   },
   {
-   "source": 12,
-   "target": 369
+   "source": 79,
+   "target": 94.0
   },
   {
-   "source": 12,
-   "target": 415
+   "source": 79,
+   "target": 95.0
   },
   {
-   "source": 12,
-   "target": 334
+   "source": 79,
+   "target": 96.0
   },
   {
-   "source": 12,
-   "target": 370
+   "source": 79,
+   "target": 97.0
   },
   {
-   "source": 12,
-   "target": 337
+   "source": 79,
+   "target": 98.0
   },
   {
-   "source": 12,
-   "target": 374
+   "source": 79,
+   "target": 99.0
   },
   {
-   "source": 12,
-   "target": 376
+   "source": 79,
+   "target": 100.0
   },
   {
-   "source": 12,
-   "target": 377
+   "source": 79,
+   "target": 101.0
   },
   {
-   "source": 12,
-   "target": 35
+   "source": 79,
+   "target": 102.0
   },
   {
-   "source": 11,
-   "target": 36
+   "source": 79,
+   "target": 103.0
   },
   {
-   "source": 36,
-   "target": 298
+   "source": 79,
+   "target": 104.0
   },
   {
-   "source": 36,
-   "target": 38
+   "source": 79,
+   "target": 105.0
   },
   {
-   "source": 36,
-   "target": 354
+   "source": 79,
+   "target": 106.0
   },
   {
-   "source": 36,
-   "target": 355
+   "source": 79,
+   "target": 107.0
   },
   {
-   "source": 36,
-   "target": 308
+   "source": 79,
+   "target": 108.0
   },
   {
-   "source": 36,
-   "target": 310
+   "source": 79,
+   "target": 109.0
   },
   {
-   "source": 36,
-   "target": 43
+   "source": 79,
+   "target": 110.0
   },
   {
-   "source": 36,
-   "target": 414
+   "source": 80,
+   "target": 111.0
   },
   {
-   "source": 11,
-   "target": 45
+   "source": 80,
+   "target": 112.0
   },
   {
-   "source": 45,
-   "target": 351
+   "source": 80,
+   "target": 113.0
   },
   {
-   "source": 45,
-   "target": 360
+   "source": 80,
+   "target": 114.0
   },
   {
-   "source": 45,
-   "target": 48
+   "source": 80,
+   "target": 115.0
   },
   {
-   "source": 45,
-   "target": 49
+   "source": 80,
+   "target": 116.0
   },
   {
-   "source": 45,
-   "target": 371
+   "source": 80,
+   "target": 117.0
   },
   {
-   "source": 11,
-   "target": 51
+   "source": 80,
+   "target": 118.0
   },
   {
-   "source": 51,
-   "target": 300
+   "source": 81,
+   "target": 119.0
   },
   {
-   "source": 51,
-   "target": 352
+   "source": 81,
+   "target": 120.0
   },
   {
-   "source": 51,
-   "target": 387
+   "source": 81,
+   "target": 121.0
   },
   {
-   "source": 51,
-   "target": 55
+   "source": 81,
+   "target": 122.0
   },
   {
-   "source": 51,
-   "target": 56
+   "source": 81,
+   "target": 123.0
   },
   {
-   "source": 51,
-   "target": 313
+   "source": 81,
+   "target": 124.0
   },
   {
-   "source": 51,
-   "target": 58
+   "source": 81,
+   "target": 125.0
   },
   {
-   "source": 51,
-   "target": 314
+   "source": 81,
+   "target": 126.0
   },
   {
-   "source": 51,
-   "target": 396
+   "source": 81,
+   "target": 127.0
   },
   {
-   "source": 51,
-   "target": 320
+   "source": 81,
+   "target": 128.0
   },
   {
-   "source": 51,
-   "target": 363
+   "source": 81,
+   "target": 129.0
   },
   {
-   "source": 51,
-   "target": 324
+   "source": 81,
+   "target": 130.0
   },
   {
-   "source": 51,
-   "target": 367
+   "source": 81,
+   "target": 131.0
   },
   {
-   "source": 51,
-   "target": 65
+   "source": 81,
+   "target": 132.0
   },
   {
-   "source": 51,
-   "target": 66
+   "source": 81,
+   "target": 133.0
   },
   {
-   "source": 51,
-   "target": 331
+   "source": 81,
+   "target": 134.0
   },
   {
-   "source": 51,
-   "target": 332
+   "source": 78,
+   "target": 135.0
   },
   {
-   "source": 51,
-   "target": 339
+   "source": 78,
+   "target": 136.0
   },
   {
-   "source": 0,
-   "target": 70
+   "source": 78,
+   "target": 137.0
   },
   {
-   "source": 70,
-   "target": 437
+   "source": 78,
+   "target": 138.0
+  },
+  {
+   "source": 78,
+   "target": 139.0
+  },
+  {
+   "source": 3,
+   "target": 140.0
+  },
+  {
+   "source": 3,
+   "target": 141.0
+  },
+  {
+   "source": 3,
+   "target": 142.0
+  },
+  {
+   "source": 3,
+   "target": 143.0
+  },
+  {
+   "source": 140,
+   "target": 144.0
+  },
+  {
+   "source": 140,
+   "target": 145.0
+  },
+  {
+   "source": 140,
+   "target": 146.0
+  },
+  {
+   "source": 140,
+   "target": 147.0
+  },
+  {
+   "source": 140,
+   "target": 148.0
+  },
+  {
+   "source": 140,
+   "target": 149.0
+  },
+  {
+   "source": 140,
+   "target": 150.0
+  },
+  {
+   "source": 140,
+   "target": 151.0
+  },
+  {
+   "source": 140,
+   "target": 152.0
+  },
+  {
+   "source": 140,
+   "target": 153.0
+  },
+  {
+   "source": 140,
+   "target": 154.0
+  },
+  {
+   "source": 141,
+   "target": 155.0
+  },
+  {
+   "source": 141,
+   "target": 156.0
+  },
+  {
+   "source": 141,
+   "target": 157.0
+  },
+  {
+   "source": 141,
+   "target": 158.0
+  },
+  {
+   "source": 141,
+   "target": 159.0
+  },
+  {
+   "source": 141,
+   "target": 160.0
+  },
+  {
+   "source": 141,
+   "target": 161.0
+  },
+  {
+   "source": 141,
+   "target": 162.0
+  },
+  {
+   "source": 141,
+   "target": 163.0
+  },
+  {
+   "source": 141,
+   "target": 164.0
+  },
+  {
+   "source": 141,
+   "target": 165.0
+  },
+  {
+   "source": 141,
+   "target": 166.0
+  },
+  {
+   "source": 141,
+   "target": 167.0
+  },
+  {
+   "source": 141,
+   "target": 168.0
+  },
+  {
+   "source": 141,
+   "target": 169.0
+  },
+  {
+   "source": 141,
+   "target": 170.0
+  },
+  {
+   "source": 141,
+   "target": 171.0
+  },
+  {
+   "source": 141,
+   "target": 172.0
+  },
+  {
+   "source": 169,
+   "target": 173.0
+  },
+  {
+   "source": 169,
+   "target": 174.0
+  },
+  {
+   "source": 169,
+   "target": 175.0
+  },
+  {
+   "source": 142,
+   "target": 176.0
+  },
+  {
+   "source": 142,
+   "target": 177.0
+  },
+  {
+   "source": 142,
+   "target": 178.0
+  },
+  {
+   "source": 142,
+   "target": 179.0
+  },
+  {
+   "source": 142,
+   "target": 180.0
+  },
+  {
+   "source": 142,
+   "target": 181.0
+  },
+  {
+   "source": 142,
+   "target": 182.0
+  },
+  {
+   "source": 142,
+   "target": 183.0
+  },
+  {
+   "source": 142,
+   "target": 184.0
+  },
+  {
+   "source": 142,
+   "target": 185.0
+  },
+  {
+   "source": 142,
+   "target": 186.0
+  },
+  {
+   "source": 142,
+   "target": 187.0
+  },
+  {
+   "source": 142,
+   "target": 188.0
+  },
+  {
+   "source": 142,
+   "target": 189.0
+  },
+  {
+   "source": 142,
+   "target": 190.0
+  },
+  {
+   "source": 142,
+   "target": 191.0
+  },
+  {
+   "source": 142,
+   "target": 192.0
+  },
+  {
+   "source": 143,
+   "target": 193.0
+  },
+  {
+   "source": 143,
+   "target": 194.0
+  },
+  {
+   "source": 143,
+   "target": 195.0
+  },
+  {
+   "source": 143,
+   "target": 196.0
+  },
+  {
+   "source": 143,
+   "target": 197.0
+  },
+  {
+   "source": 143,
+   "target": 198.0
+  },
+  {
+   "source": 143,
+   "target": 199.0
+  },
+  {
+   "source": 143,
+   "target": 200.0
+  },
+  {
+   "source": 143,
+   "target": 201.0
+  },
+  {
+   "source": 4,
+   "target": 202.0
+  },
+  {
+   "source": 4,
+   "target": 203.0
+  },
+  {
+   "source": 4,
+   "target": 204.0
+  },
+  {
+   "source": 4,
+   "target": 205.0
+  },
+  {
+   "source": 4,
+   "target": 206.0
+  },
+  {
+   "source": 4,
+   "target": 207.0
+  },
+  {
+   "source": 202,
+   "target": 208.0
+  },
+  {
+   "source": 202,
+   "target": 209.0
+  },
+  {
+   "source": 202,
+   "target": 210.0
+  },
+  {
+   "source": 202,
+   "target": 211.0
+  },
+  {
+   "source": 202,
+   "target": 212.0
+  },
+  {
+   "source": 203,
+   "target": 213.0
+  },
+  {
+   "source": 203,
+   "target": 214.0
+  },
+  {
+   "source": 203,
+   "target": 215.0
+  },
+  {
+   "source": 203,
+   "target": 216.0
+  },
+  {
+   "source": 203,
+   "target": 217.0
+  },
+  {
+   "source": 203,
+   "target": 218.0
+  },
+  {
+   "source": 203,
+   "target": 219.0
+  },
+  {
+   "source": 203,
+   "target": 220.0
+  },
+  {
+   "source": 204,
+   "target": 221.0
+  },
+  {
+   "source": 204,
+   "target": 222.0
+  },
+  {
+   "source": 204,
+   "target": 223.0
+  },
+  {
+   "source": 204,
+   "target": 224.0
+  },
+  {
+   "source": 204,
+   "target": 225.0
+  },
+  {
+   "source": 204,
+   "target": 226.0
+  },
+  {
+   "source": 204,
+   "target": 227.0
+  },
+  {
+   "source": 204,
+   "target": 228.0
+  },
+  {
+   "source": 204,
+   "target": 229.0
+  },
+  {
+   "source": 204,
+   "target": 230.0
+  },
+  {
+   "source": 204,
+   "target": 231.0
+  },
+  {
+   "source": 205,
+   "target": 232.0
+  },
+  {
+   "source": 205,
+   "target": 233.0
+  },
+  {
+   "source": 205,
+   "target": 234.0
+  },
+  {
+   "source": 205,
+   "target": 235.0
+  },
+  {
+   "source": 205,
+   "target": 236.0
+  },
+  {
+   "source": 205,
+   "target": 237.0
+  },
+  {
+   "source": 205,
+   "target": 238.0
+  },
+  {
+   "source": 205,
+   "target": 239.0
+  },
+  {
+   "source": 205,
+   "target": 240.0
+  },
+  {
+   "source": 206,
+   "target": 241.0
+  },
+  {
+   "source": 206,
+   "target": 242.0
+  },
+  {
+   "source": 206,
+   "target": 243.0
+  },
+  {
+   "source": 206,
+   "target": 244.0
+  },
+  {
+   "source": 206,
+   "target": 245.0
+  },
+  {
+   "source": 206,
+   "target": 246.0
+  },
+  {
+   "source": 206,
+   "target": 247.0
+  },
+  {
+   "source": 206,
+   "target": 248.0
+  },
+  {
+   "source": 206,
+   "target": 249.0
+  },
+  {
+   "source": 206,
+   "target": 250.0
+  },
+  {
+   "source": 206,
+   "target": 251.0
+  },
+  {
+   "source": 206,
+   "target": 252.0
+  },
+  {
+   "source": 206,
+   "target": 253.0
+  },
+  {
+   "source": 206,
+   "target": 254.0
+  },
+  {
+   "source": 206,
+   "target": 255.0
+  },
+  {
+   "source": 206,
+   "target": 256.0
+  },
+  {
+   "source": 206,
+   "target": 257.0
+  },
+  {
+   "source": 206,
+   "target": 258.0
+  },
+  {
+   "source": 206,
+   "target": 259.0
+  },
+  {
+   "source": 206,
+   "target": 260.0
+  },
+  {
+   "source": 5,
+   "target": 261.0
+  },
+  {
+   "source": 5,
+   "target": 262.0
+  },
+  {
+   "source": 5,
+   "target": 263.0
+  },
+  {
+   "source": 5,
+   "target": 264.0
+  },
+  {
+   "source": 5,
+   "target": 265.0
+  },
+  {
+   "source": 261,
+   "target": 266.0
+  },
+  {
+   "source": 261,
+   "target": 267.0
+  },
+  {
+   "source": 261,
+   "target": 268.0
+  },
+  {
+   "source": 261,
+   "target": 269.0
+  },
+  {
+   "source": 261,
+   "target": 270.0
+  },
+  {
+   "source": 261,
+   "target": 271.0
+  },
+  {
+   "source": 262,
+   "target": 272.0
+  },
+  {
+   "source": 262,
+   "target": 273.0
+  },
+  {
+   "source": 262,
+   "target": 274.0
+  },
+  {
+   "source": 262,
+   "target": 275.0
+  },
+  {
+   "source": 262,
+   "target": 276.0
+  },
+  {
+   "source": 263,
+   "target": 277.0
+  },
+  {
+   "source": 263,
+   "target": 278.0
+  },
+  {
+   "source": 263,
+   "target": 279.0
+  },
+  {
+   "source": 263,
+   "target": 280.0
+  },
+  {
+   "source": 263,
+   "target": 281.0
+  },
+  {
+   "source": 263,
+   "target": 282.0
+  },
+  {
+   "source": 263,
+   "target": 283.0
+  },
+  {
+   "source": 263,
+   "target": 284.0
+  },
+  {
+   "source": 264,
+   "target": 285.0
+  },
+  {
+   "source": 264,
+   "target": 286.0
+  },
+  {
+   "source": 264,
+   "target": 287.0
+  },
+  {
+   "source": 264,
+   "target": 288.0
+  },
+  {
+   "source": 264,
+   "target": 289.0
+  },
+  {
+   "source": 264,
+   "target": 290.0
+  },
+  {
+   "source": 264,
+   "target": 291.0
+  },
+  {
+   "source": 264,
+   "target": 292.0
+  },
+  {
+   "source": 264,
+   "target": 293.0
+  },
+  {
+   "source": 264,
+   "target": 294.0
+  },
+  {
+   "source": 295,
+   "target": 302.0
+  },
+  {
+   "source": 295,
+   "target": 303.0
+  },
+  {
+   "source": 295,
+   "target": 304.0
+  },
+  {
+   "source": 295,
+   "target": 305.0
+  },
+  {
+   "source": 295,
+   "target": 306.0
+  },
+  {
+   "source": 295,
+   "target": 307.0
+  },
+  {
+   "source": 295,
+   "target": 308.0
+  },
+  {
+   "source": 295,
+   "target": 309.0
+  },
+  {
+   "source": 295,
+   "target": 310.0
+  },
+  {
+   "source": 295,
+   "target": 311.0
+  },
+  {
+   "source": 295,
+   "target": 312.0
+  },
+  {
+   "source": 295,
+   "target": 313.0
+  },
+  {
+   "source": 295,
+   "target": 314.0
+  },
+  {
+   "source": 295,
+   "target": 315.0
+  },
+  {
+   "source": 295,
+   "target": 316.0
+  },
+  {
+   "source": 295,
+   "target": 317.0
+  },
+  {
+   "source": 295,
+   "target": 318.0
+  },
+  {
+   "source": 296,
+   "target": 295.0
+  },
+  {
+   "source": 297,
+   "target": 295.0
+  },
+  {
+   "source": 298,
+   "target": 295.0
+  },
+  {
+   "source": 299,
+   "target": 295.0
+  },
+  {
+   "source": 300,
+   "target": 295.0
+  },
+  {
+   "source": 301,
+   "target": 295.0
+  },
+  {
+   "source": 319,
+   "target": 302.0
+  },
+  {
+   "source": 320,
+   "target": 302.0
+  },
+  {
+   "source": 321,
+   "target": 302.0
+  },
+  {
+   "source": 322,
+   "target": 302.0
+  },
+  {
+   "source": 323,
+   "target": 302.0
+  },
+  {
+   "source": 324,
+   "target": 302.0
+  },
+  {
+   "source": 325,
+   "target": 302.0
+  },
+  {
+   "source": 326,
+   "target": 303.0
+  },
+  {
+   "source": 327,
+   "target": 303.0
+  },
+  {
+   "source": 328,
+   "target": 303.0
+  },
+  {
+   "source": 329,
+   "target": 303.0
+  },
+  {
+   "source": 330,
+   "target": 303.0
+  },
+  {
+   "source": 331,
+   "target": 303.0
+  },
+  {
+   "source": 332,
+   "target": 303.0
+  },
+  {
+   "source": 333,
+   "target": 303.0
+  },
+  {
+   "source": 334,
+   "target": 304.0
+  },
+  {
+   "source": 335,
+   "target": 304.0
+  },
+  {
+   "source": 336,
+   "target": 304.0
+  },
+  {
+   "source": 337,
+   "target": 304.0
+  },
+  {
+   "source": 338,
+   "target": 304.0
+  },
+  {
+   "source": 339,
+   "target": 304.0
+  },
+  {
+   "source": 340,
+   "target": 304.0
+  },
+  {
+   "source": 341,
+   "target": 304.0
+  },
+  {
+   "source": 342,
+   "target": 304.0
+  },
+  {
+   "source": 343,
+   "target": 304.0
+  },
+  {
+   "source": 344,
+   "target": 304.0
+  },
+  {
+   "source": 345,
+   "target": 304.0
+  },
+  {
+   "source": 346,
+   "target": 304.0
+  },
+  {
+   "source": 347,
+   "target": 305.0
+  },
+  {
+   "source": 348,
+   "target": 305.0
+  },
+  {
+   "source": 349,
+   "target": 305.0
+  },
+  {
+   "source": 350,
+   "target": 305.0
+  },
+  {
+   "source": 351,
+   "target": 305.0
+  },
+  {
+   "source": 352,
+   "target": 305.0
+  },
+  {
+   "source": 353,
+   "target": 305.0
+  },
+  {
+   "source": 354,
+   "target": 305.0
+  },
+  {
+   "source": 355,
+   "target": 305.0
+  },
+  {
+   "source": 356,
+   "target": 305.0
+  },
+  {
+   "source": 357,
+   "target": 306.0
+  },
+  {
+   "source": 358,
+   "target": 306.0
+  },
+  {
+   "source": 359,
+   "target": 306.0
+  },
+  {
+   "source": 360,
+   "target": 306.0
+  },
+  {
+   "source": 361,
+   "target": 306.0
+  },
+  {
+   "source": 362,
+   "target": 306.0
+  },
+  {
+   "source": 363,
+   "target": 306.0
+  },
+  {
+   "source": 364,
+   "target": 306.0
+  },
+  {
+   "source": 365,
+   "target": 306.0
+  },
+  {
+   "source": 366,
+   "target": 307.0
+  },
+  {
+   "source": 367,
+   "target": 307.0
+  },
+  {
+   "source": 368,
+   "target": 307.0
+  },
+  {
+   "source": 369,
+   "target": 307.0
+  },
+  {
+   "source": 370,
+   "target": 307.0
+  },
+  {
+   "source": 371,
+   "target": 307.0
+  },
+  {
+   "source": 372,
+   "target": 307.0
+  },
+  {
+   "source": 373,
+   "target": 307.0
+  },
+  {
+   "source": 374,
+   "target": 308.0
+  },
+  {
+   "source": 375,
+   "target": 308.0
+  },
+  {
+   "source": 376,
+   "target": 308.0
+  },
+  {
+   "source": 377,
+   "target": 308.0
+  },
+  {
+   "source": 378,
+   "target": 308.0
+  },
+  {
+   "source": 379,
+   "target": 309.0
+  },
+  {
+   "source": 380,
+   "target": 309.0
+  },
+  {
+   "source": 381,
+   "target": 309.0
+  },
+  {
+   "source": 382,
+   "target": 309.0
+  },
+  {
+   "source": 383,
+   "target": 309.0
+  },
+  {
+   "source": 384,
+   "target": 309.0
+  },
+  {
+   "source": 385,
+   "target": 309.0
+  },
+  {
+   "source": 386,
+   "target": 309.0
+  },
+  {
+   "source": 387,
+   "target": 309.0
+  },
+  {
+   "source": 388,
+   "target": 309.0
+  },
+  {
+   "source": 389,
+   "target": 309.0
+  },
+  {
+   "source": 390,
+   "target": 309.0
+  },
+  {
+   "source": 391,
+   "target": 310.0
+  },
+  {
+   "source": 392,
+   "target": 310.0
+  },
+  {
+   "source": 393,
+   "target": 310.0
+  },
+  {
+   "source": 394,
+   "target": 310.0
+  },
+  {
+   "source": 395,
+   "target": 310.0
+  },
+  {
+   "source": 396,
+   "target": 310.0
+  },
+  {
+   "source": 397,
+   "target": 310.0
+  },
+  {
+   "source": 398,
+   "target": 310.0
+  },
+  {
+   "source": 399,
+   "target": 311.0
+  },
+  {
+   "source": 400,
+   "target": 311.0
+  },
+  {
+   "source": 401,
+   "target": 311.0
+  },
+  {
+   "source": 402,
+   "target": 311.0
+  },
+  {
+   "source": 403,
+   "target": 311.0
+  },
+  {
+   "source": 404,
+   "target": 311.0
+  },
+  {
+   "source": 405,
+   "target": 311.0
+  },
+  {
+   "source": 406,
+   "target": 311.0
+  },
+  {
+   "source": 407,
+   "target": 311.0
+  },
+  {
+   "source": 408,
+   "target": 311.0
+  },
+  {
+   "source": 409,
+   "target": 312.0
+  },
+  {
+   "source": 410,
+   "target": 312.0
+  },
+  {
+   "source": 411,
+   "target": 312.0
+  },
+  {
+   "source": 412,
+   "target": 312.0
+  },
+  {
+   "source": 413,
+   "target": 312.0
+  },
+  {
+   "source": 414,
+   "target": 312.0
+  },
+  {
+   "source": 415,
+   "target": 312.0
+  },
+  {
+   "source": 416,
+   "target": 312.0
+  },
+  {
+   "source": 417,
+   "target": 312.0
+  },
+  {
+   "source": 418,
+   "target": 312.0
+  },
+  {
+   "source": 419,
+   "target": 313.0
+  },
+  {
+   "source": 420,
+   "target": 313.0
+  },
+  {
+   "source": 421,
+   "target": 313.0
+  },
+  {
+   "source": 422,
+   "target": 313.0
+  },
+  {
+   "source": 423,
+   "target": 313.0
+  },
+  {
+   "source": 424,
+   "target": 313.0
+  },
+  {
+   "source": 425,
+   "target": 313.0
+  },
+  {
+   "source": 426,
+   "target": 313.0
+  },
+  {
+   "source": 427,
+   "target": 313.0
+  },
+  {
+   "source": 428,
+   "target": 313.0
+  },
+  {
+   "source": 429,
+   "target": 313.0
+  },
+  {
+   "source": 430,
+   "target": 314.0
+  },
+  {
+   "source": 431,
+   "target": 314.0
+  },
+  {
+   "source": 432,
+   "target": 314.0
+  },
+  {
+   "source": 433,
+   "target": 314.0
+  },
+  {
+   "source": 434,
+   "target": 314.0
+  },
+  {
+   "source": 435,
+   "target": 315.0
+  },
+  {
+   "source": 436,
+   "target": 315.0
   },
   {
    "source": 437,
-   "target": 438
+   "target": 315.0
   },
   {
    "source": 438,
-   "target": 439
+   "target": 315.0
   },
   {
-   "source": 438,
-   "target": 440
+   "source": 439,
+   "target": 315.0
   },
   {
-   "source": 438,
-   "target": 441
+   "source": 440,
+   "target": 315.0
   },
   {
-   "source": 438,
-   "target": 442
+   "source": 441,
+   "target": 315.0
   },
   {
-   "source": 438,
-   "target": 443
+   "source": 442,
+   "target": 315.0
   },
   {
-   "source": 438,
-   "target": 444
+   "source": 443,
+   "target": 315.0
   },
   {
-   "source": 438,
-   "target": 445
+   "source": 444,
+   "target": 315.0
   },
   {
-   "source": 438,
-   "target": 446
+   "source": 445,
+   "target": 316.0
   },
   {
-   "source": 438,
-   "target": 447
+   "source": 446,
+   "target": 316.0
   },
   {
-   "source": 438,
-   "target": 448
+   "source": 447,
+   "target": 316.0
   },
   {
-   "source": 438,
-   "target": 449
+   "source": 448,
+   "target": 316.0
   },
   {
-   "source": 438,
-   "target": 450
+   "source": 449,
+   "target": 316.0
   },
   {
-   "source": 438,
-   "target": 451
+   "source": 450,
+   "target": 316.0
   },
   {
-   "source": 438,
-   "target": 452
+   "source": 451,
+   "target": 316.0
   },
   {
-   "source": 438,
-   "target": 453
+   "source": 452,
+   "target": 316.0
   },
   {
-   "source": 438,
-   "target": 454
+   "source": 453,
+   "target": 316.0
   },
   {
-   "source": 438,
-   "target": 455
+   "source": 454,
+   "target": 316.0
   },
   {
-   "source": 438,
-   "target": 456
+   "source": 455,
+   "target": 316.0
   },
   {
-   "source": 438,
-   "target": 457
+   "source": 456,
+   "target": 316.0
   },
   {
-   "source": 438,
-   "target": 458
+   "source": 457,
+   "target": 317.0
   },
   {
-   "source": 438,
-   "target": 459
+   "source": 458,
+   "target": 317.0
   },
   {
-   "source": 438,
-   "target": 460
+   "source": 459,
+   "target": 317.0
   },
   {
-   "source": 438,
-   "target": 461
+   "source": 460,
+   "target": 317.0
   },
   {
-   "source": 438,
-   "target": 462
+   "source": 461,
+   "target": 317.0
   },
   {
-   "source": 438,
-   "target": 463
+   "source": 462,
+   "target": 317.0
   },
   {
-   "source": 438,
-   "target": 464
+   "source": 463,
+   "target": 317.0
   },
   {
-   "source": 438,
-   "target": 465
+   "source": 464,
+   "target": 317.0
   },
   {
-   "source": 438,
-   "target": 466
+   "source": 465,
+   "target": 317.0
   },
   {
-   "source": 438,
-   "target": 467
+   "source": 466,
+   "target": 317.0
   },
   {
-   "source": 437,
-   "target": 468
+   "source": 467,
+   "target": 317.0
   },
   {
    "source": 468,
-   "target": 469
+   "target": 317.0
   },
   {
-   "source": 468,
-   "target": 470
+   "source": 469,
+   "target": 318.0
   },
   {
-   "source": 468,
-   "target": 471
+   "source": 470,
+   "target": 318.0
   },
   {
-   "source": 468,
-   "target": 472
+   "source": 471,
+   "target": 318.0
   },
   {
-   "source": 468,
-   "target": 473
+   "source": 472,
+   "target": 318.0
   },
   {
-   "source": 468,
-   "target": 474
+   "source": 473,
+   "target": 318.0
   },
   {
-   "source": 468,
-   "target": 475
+   "source": 474,
+   "target": 318.0
   },
   {
-   "source": 468,
-   "target": 476
+   "source": 475,
+   "target": 318.0
   },
   {
-   "source": 437,
-   "target": 477
-  },
-  {
-   "source": 477,
-   "target": 478
+   "source": 476,
+   "target": 318.0
   },
   {
    "source": 477,
-   "target": 479
+   "target": 318.0
   },
   {
-   "source": 477,
-   "target": 480
+   "source": 478,
+   "target": 318.0
   },
   {
-   "source": 477,
-   "target": 481
+   "source": 479,
+   "target": 318.0
   },
   {
-   "source": 477,
-   "target": 482
+   "source": 480,
+   "target": 318.0
   },
   {
-   "source": 477,
-   "target": 483
+   "source": 481,
+   "target": 318.0
   },
   {
-   "source": 477,
-   "target": 484
+   "source": 482,
+   "target": 318.0
   },
   {
-   "source": 477,
-   "target": 485
+   "source": 483,
+   "target": 318.0
   },
   {
-   "source": 477,
-   "target": 486
+   "source": 484,
+   "target": 318.0
   },
   {
-   "source": 477,
-   "target": 487
+   "source": 485,
+   "target": 318.0
   },
   {
-   "source": 477,
-   "target": 488
+   "source": 486,
+   "target": 318.0
   },
   {
-   "source": 477,
-   "target": 489
+   "source": 487,
+   "target": 318.0
   },
   {
-   "source": 477,
-   "target": 490
-  },
-  {
-   "source": 477,
-   "target": 491
-  },
-  {
-   "source": 477,
-   "target": 492
-  },
-  {
-   "source": 477,
-   "target": 493
-  },
-  {
-   "source": 70,
-   "target": 128
-  },
-  {
-   "source": 128,
-   "target": 129
-  },
-  {
-   "source": 128,
-   "target": 130
-  },
-  {
-   "source": 128,
-   "target": 131
-  },
-  {
-   "source": 128,
-   "target": 132
-  },
-  {
-   "source": 128,
-   "target": 133
-  },
-  {
-   "source": 0,
-   "target": 134
-  },
-  {
-   "source": 134,
-   "target": 135
-  },
-  {
-   "source": 135,
-   "target": 136
-  },
-  {
-   "source": 135,
-   "target": 137
-  },
-  {
-   "source": 135,
-   "target": 138
-  },
-  {
-   "source": 135,
-   "target": 139
-  },
-  {
-   "source": 135,
-   "target": 364
-  },
-  {
-   "source": 135,
-   "target": 141
-  },
-  {
-   "source": 135,
-   "target": 142
-  },
-  {
-   "source": 135,
-   "target": 143
-  },
-  {
-   "source": 135,
-   "target": 144
-  },
-  {
-   "source": 135,
-   "target": 145
-  },
-  {
-   "source": 135,
-   "target": 146
-  },
-  {
-   "source": 134,
-   "target": 147
-  },
-  {
-   "source": 147,
-   "target": 148
-  },
-  {
-   "source": 147,
-   "target": 149
-  },
-  {
-   "source": 147,
-   "target": 150
-  },
-  {
-   "source": 147,
-   "target": 151
-  },
-  {
-   "source": 147,
-   "target": 152
-  },
-  {
-   "source": 147,
-   "target": 153
-  },
-  {
-   "source": 147,
-   "target": 154
-  },
-  {
-   "source": 147,
-   "target": 155
-  },
-  {
-   "source": 147,
-   "target": 156
-  },
-  {
-   "source": 147,
-   "target": 157
-  },
-  {
-   "source": 147,
-   "target": 158
-  },
-  {
-   "source": 147,
-   "target": 159
-  },
-  {
-   "source": 147,
-   "target": 160
-  },
-  {
-   "source": 147,
-   "target": 161
-  },
-  {
-   "source": 147,
-   "target": 162
-  },
-  {
-   "source": 162,
-   "target": 163
-  },
-  {
-   "source": 162,
-   "target": 164
-  },
-  {
-   "source": 162,
-   "target": 165
-  },
-  {
-   "source": 147,
-   "target": 166
-  },
-  {
-   "source": 147,
-   "target": 167
-  },
-  {
-   "source": 147,
-   "target": 168
-  },
-  {
-   "source": 134,
-   "target": 169
-  },
-  {
-   "source": 169,
-   "target": 170
-  },
-  {
-   "source": 169,
-   "target": 171
-  },
-  {
-   "source": 169,
-   "target": 172
-  },
-  {
-   "source": 169,
-   "target": 173
-  },
-  {
-   "source": 169,
-   "target": 174
-  },
-  {
-   "source": 169,
-   "target": 175
-  },
-  {
-   "source": 169,
-   "target": 176
-  },
-  {
-   "source": 169,
-   "target": 177
-  },
-  {
-   "source": 169,
-   "target": 361
-  },
-  {
-   "source": 169,
-   "target": 179
-  },
-  {
-   "source": 169,
-   "target": 180
-  },
-  {
-   "source": 169,
-   "target": 181
-  },
-  {
-   "source": 169,
-   "target": 182
-  },
-  {
-   "source": 169,
-   "target": 183
-  },
-  {
-   "source": 169,
-   "target": 184
-  },
-  {
-   "source": 169,
-   "target": 185
-  },
-  {
-   "source": 169,
-   "target": 186
-  },
-  {
-   "source": 134,
-   "target": 187
-  },
-  {
-   "source": 187,
-   "target": 188
-  },
-  {
-   "source": 187,
-   "target": 189
-  },
-  {
-   "source": 187,
-   "target": 190
-  },
-  {
-   "source": 187,
-   "target": 191
-  },
-  {
-   "source": 187,
-   "target": 192
-  },
-  {
-   "source": 187,
-   "target": 193
-  },
-  {
-   "source": 187,
-   "target": 194
-  },
-  {
-   "source": 187,
-   "target": 195
-  },
-  {
-   "source": 187,
-   "target": 196
-  },
-  {
-   "source": 0,
-   "target": 197
-  },
-  {
-   "source": 197,
-   "target": 198
-  },
-  {
-   "source": 198,
-   "target": 357
-  },
-  {
-   "source": 198,
-   "target": 358
-  },
-  {
-   "source": 198,
-   "target": 372
-  },
-  {
-   "source": 198,
-   "target": 373
-  },
-  {
-   "source": 198,
-   "target": 375
-  },
-  {
-   "source": 197,
-   "target": 204
-  },
-  {
-   "source": 204,
-   "target": 205
-  },
-  {
-   "source": 204,
-   "target": 206
-  },
-  {
-   "source": 204,
-   "target": 207
-  },
-  {
-   "source": 204,
-   "target": 208
-  },
-  {
-   "source": 204,
-   "target": 209
-  },
-  {
-   "source": 204,
-   "target": 210
-  },
-  {
-   "source": 204,
-   "target": 365
-  },
-  {
-   "source": 204,
-   "target": 212
-  },
-  {
-   "source": 197,
-   "target": 494
-  },
-  {
-   "source": 494,
-   "target": 495
-  },
-  {
-   "source": 494,
-   "target": 496
-  },
-  {
-   "source": 494,
-   "target": 497
-  },
-  {
-   "source": 494,
-   "target": 498
-  },
-  {
-   "source": 494,
-   "target": 499
-  },
-  {
-   "source": 494,
-   "target": 500
-  },
-  {
-   "source": 494,
-   "target": 501
-  },
-  {
-   "source": 494,
-   "target": 502
-  },
-  {
-   "source": 494,
-   "target": 503
-  },
-  {
-   "source": 494,
-   "target": 504
-  },
-  {
-   "source": 494,
-   "target": 505
-  },
-  {
-   "source": 197,
-   "target": 506
-  },
-  {
-   "source": 506,
-   "target": 507
-  },
-  {
-   "source": 506,
-   "target": 508
-  },
-  {
-   "source": 506,
-   "target": 509
-  },
-  {
-   "source": 506,
-   "target": 510
-  },
-  {
-   "source": 506,
-   "target": 511
-  },
-  {
-   "source": 506,
-   "target": 512
-  },
-  {
-   "source": 506,
-   "target": 513
-  },
-  {
-   "source": 506,
-   "target": 514
-  },
-  {
-   "source": 506,
-   "target": 515
-  },
-  {
-   "source": 197,
-   "target": 235
-  },
-  {
-   "source": 235,
-   "target": 347
-  },
-  {
-   "source": 235,
-   "target": 348
-  },
-  {
-   "source": 235,
-   "target": 238
-  },
-  {
-   "source": 235,
-   "target": 239
-  },
-  {
-   "source": 235,
-   "target": 240
-  },
-  {
-   "source": 235,
-   "target": 241
-  },
-  {
-   "source": 235,
-   "target": 242
-  },
-  {
-   "source": 235,
-   "target": 243
-  },
-  {
-   "source": 235,
-   "target": 244
-  },
-  {
-   "source": 235,
-   "target": 245
-  },
-  {
-   "source": 235,
-   "target": 246
-  },
-  {
-   "source": 235,
-   "target": 247
-  },
-  {
-   "source": 235,
-   "target": 248
-  },
-  {
-   "source": 235,
-   "target": 249
-  },
-  {
-   "source": 235,
-   "target": 250
-  },
-  {
-   "source": 235,
-   "target": 251
-  },
-  {
-   "source": 235,
-   "target": 252
-  },
-  {
-   "source": 235,
-   "target": 343
-  },
-  {
-   "source": 235,
-   "target": 254
-  },
-  {
-   "source": 235,
-   "target": 255
-  },
-  {
-   "source": 197,
-   "target": 518
-  },
-  {
-   "source": 0,
-   "target": 257
-  },
-  {
-   "source": 257,
-   "target": 258
-  },
-  {
-   "source": 258,
-   "target": 259
-  },
-  {
-   "source": 258,
-   "target": 260
-  },
-  {
-   "source": 258,
-   "target": 261
-  },
-  {
-   "source": 258,
-   "target": 262
-  },
-  {
-   "source": 258,
-   "target": 263
-  },
-  {
-   "source": 258,
-   "target": 264
-  },
-  {
-   "source": 257,
-   "target": 265
-  },
-  {
-   "source": 265,
-   "target": 393
-  },
-  {
-   "source": 265,
-   "target": 406
-  },
-  {
-   "source": 265,
-   "target": 410
-  },
-  {
-   "source": 265,
-   "target": 417
-  },
-  {
-   "source": 265,
-   "target": 421
-  },
-  {
-   "source": 257,
-   "target": 422
-  },
-  {
-   "source": 422,
-   "target": 423
-  },
-  {
-   "source": 422,
-   "target": 424
-  },
-  {
-   "source": 422,
-   "target": 425
-  },
-  {
-   "source": 422,
-   "target": 426
-  },
-  {
-   "source": 422,
-   "target": 427
-  },
-  {
-   "source": 422,
-   "target": 428
-  },
-  {
-   "source": 422,
-   "target": 429
-  },
-  {
-   "source": 422,
-   "target": 430
-  },
-  {
-   "source": 257,
-   "target": 280
-  },
-  {
-   "source": 280,
-   "target": 379
-  },
-  {
-   "source": 280,
-   "target": 389
-  },
-  {
-   "source": 280,
-   "target": 394
-  },
-  {
-   "source": 280,
-   "target": 407
-  },
-  {
-   "source": 280,
-   "target": 285
-  },
-  {
-   "source": 280,
-   "target": 413
-  },
-  {
-   "source": 280,
-   "target": 287
-  },
-  {
-   "source": 280,
-   "target": 288
-  },
-  {
-   "source": 280,
-   "target": 420
-  },
-  {
-   "source": 280,
-   "target": 290
-  },
-  {
-   "source": 257,
-   "target": 521
-  },
-  {
-   "source": 0,
-   "target": 292
-  },
-  {
-   "source": 0,
-   "target": 293
-  },
-  {
-   "source": 0,
-   "target": 294
-  },
-  {
-   "source": 0,
-   "target": 295
-  },
-  {
-   "source": 296,
-   "target": 507
-  },
-  {
-   "source": 296,
-   "target": 298
-  },
-  {
-   "source": 296,
-   "target": 508
-  },
-  {
-   "source": 296,
-   "target": 300
-  },
-  {
-   "source": 296,
-   "target": 509
-  },
-  {
-   "source": 296,
-   "target": 352
-  },
-  {
-   "source": 296,
-   "target": 353
-  },
-  {
-   "source": 296,
-   "target": 496
-  },
-  {
-   "source": 296,
-   "target": 354
-  },
-  {
-   "source": 296,
-   "target": 355
-  },
-  {
-   "source": 296,
-   "target": 388
-  },
-  {
-   "source": 296,
-   "target": 308
-  },
-  {
-   "source": 296,
-   "target": 309
-  },
-  {
-   "source": 296,
-   "target": 310
-  },
-  {
-   "source": 296,
-   "target": 311
-  },
-  {
-   "source": 296,
-   "target": 356
-  },
-  {
-   "source": 296,
-   "target": 313
-  },
-  {
-   "source": 296,
-   "target": 314
-  },
-  {
-   "source": 296,
-   "target": 396
-  },
-  {
-   "source": 296,
-   "target": 451
-  },
-  {
-   "source": 296,
-   "target": 424
-  },
-  {
-   "source": 296,
-   "target": 498
-  },
-  {
-   "source": 296,
-   "target": 360
-  },
-  {
-   "source": 296,
-   "target": 320
-  },
-  {
-   "source": 296,
-   "target": 321
-  },
-  {
-   "source": 296,
-   "target": 362
-  },
-  {
-   "source": 296,
-   "target": 363
-  },
-  {
-   "source": 296,
-   "target": 324
-  },
-  {
-   "source": 296,
-   "target": 325
-  },
-  {
-   "source": 296,
-   "target": 500
-  },
-  {
-   "source": 296,
-   "target": 513
-  },
-  {
-   "source": 296,
-   "target": 367
-  },
-  {
-   "source": 296,
-   "target": 369
-  },
-  {
-   "source": 296,
-   "target": 414
-  },
-  {
-   "source": 296,
-   "target": 331
-  },
-  {
-   "source": 296,
-   "target": 332
-  },
-  {
-   "source": 296,
-   "target": 417
-  },
-  {
-   "source": 296,
-   "target": 334
-  },
-  {
-   "source": 296,
-   "target": 370
-  },
-  {
-   "source": 296,
-   "target": 336
-  },
-  {
-   "source": 296,
-   "target": 337
-  },
-  {
-   "source": 296,
-   "target": 504
-  },
-  {
-   "source": 296,
-   "target": 339
-  },
-  {
-   "source": 296,
-   "target": 420
-  },
-  {
-   "source": 296,
-   "target": 374
-  },
-  {
-   "source": 296,
-   "target": 421
-  },
-  {
-   "source": 296,
-   "target": 343
-  },
-  {
-   "source": 296,
-   "target": 376
-  },
-  {
-   "source": 345,
-   "target": 507
-  },
-  {
-   "source": 345,
-   "target": 347
-  },
-  {
-   "source": 345,
-   "target": 348
-  },
-  {
-   "source": 345,
-   "target": 509
-  },
-  {
-   "source": 345,
-   "target": 479
-  },
-  {
-   "source": 345,
-   "target": 351
-  },
-  {
-   "source": 345,
-   "target": 352
-  },
-  {
-   "source": 345,
-   "target": 353
-  },
-  {
-   "source": 345,
-   "target": 354
-  },
-  {
-   "source": 345,
-   "target": 355
-  },
-  {
-   "source": 345,
-   "target": 356
-  },
-  {
-   "source": 345,
-   "target": 357
-  },
-  {
-   "source": 345,
-   "target": 358
-  },
-  {
-   "source": 345,
-   "target": 498
-  },
-  {
-   "source": 345,
-   "target": 360
-  },
-  {
-   "source": 345,
-   "target": 361
-  },
-  {
-   "source": 345,
-   "target": 362
-  },
-  {
-   "source": 345,
-   "target": 363
-  },
-  {
-   "source": 345,
-   "target": 364
-  },
-  {
-   "source": 345,
-   "target": 365
-  },
-  {
-   "source": 345,
-   "target": 513
-  },
-  {
-   "source": 345,
-   "target": 367
-  },
-  {
-   "source": 345,
-   "target": 488
-  },
-  {
-   "source": 345,
-   "target": 369
-  },
-  {
-   "source": 345,
-   "target": 370
-  },
-  {
-   "source": 345,
-   "target": 371
-  },
-  {
-   "source": 345,
-   "target": 372
-  },
-  {
-   "source": 345,
-   "target": 373
-  },
-  {
-   "source": 345,
-   "target": 374
-  },
-  {
-   "source": 345,
-   "target": 375
-  },
-  {
-   "source": 345,
-   "target": 376
-  },
-  {
-   "source": 345,
-   "target": 377
-  },
-  {
-   "source": 378,
-   "target": 379
-  },
-  {
-   "source": 378,
-   "target": 439
-  },
-  {
-   "source": 378,
-   "target": 440
-  },
-  {
-   "source": 378,
-   "target": 441
-  },
-  {
-   "source": 378,
-   "target": 442
-  },
-  {
-   "source": 378,
-   "target": 443
-  },
-  {
-   "source": 378,
-   "target": 469
-  },
-  {
-   "source": 378,
-   "target": 444
-  },
-  {
-   "source": 378,
-   "target": 387
-  },
-  {
-   "source": 378,
-   "target": 388
-  },
-  {
-   "source": 378,
-   "target": 389
-  },
-  {
-   "source": 378,
-   "target": 446
-  },
-  {
-   "source": 378,
-   "target": 447
-  },
-  {
-   "source": 378,
-   "target": 448
-  },
-  {
-   "source": 378,
-   "target": 393
-  },
-  {
-   "source": 378,
-   "target": 394
-  },
-  {
-   "source": 378,
-   "target": 449
-  },
-  {
-   "source": 378,
-   "target": 396
-  },
-  {
-   "source": 378,
-   "target": 487
-  },
-  {
-   "source": 378,
-   "target": 451
-  },
-  {
-   "source": 378,
-   "target": 452
-  },
-  {
-   "source": 378,
-   "target": 424
-  },
-  {
-   "source": 378,
-   "target": 512
-  },
-  {
-   "source": 378,
-   "target": 425
-  },
-  {
-   "source": 378,
-   "target": 403
-  },
-  {
-   "source": 378,
-   "target": 454
-  },
-  {
-   "source": 378,
-   "target": 427
-  },
-  {
-   "source": 378,
-   "target": 406
-  },
-  {
-   "source": 378,
-   "target": 407
-  },
-  {
-   "source": 378,
-   "target": 428
-  },
-  {
-   "source": 378,
-   "target": 429
-  },
-  {
-   "source": 378,
-   "target": 410
-  },
-  {
-   "source": 378,
-   "target": 456
-  },
-  {
-   "source": 378,
-   "target": 457
-  },
-  {
-   "source": 378,
-   "target": 413
-  },
-  {
-   "source": 378,
-   "target": 414
-  },
-  {
-   "source": 378,
-   "target": 415
-  },
-  {
-   "source": 378,
-   "target": 502
-  },
-  {
-   "source": 378,
-   "target": 417
-  },
-  {
-   "source": 378,
-   "target": 491
-  },
-  {
-   "source": 378,
-   "target": 504
-  },
-  {
-   "source": 378,
-   "target": 420
-  },
-  {
-   "source": 378,
-   "target": 421
-  },
-  {
-   "source": 378,
-   "target": 422
-  },
-  {
-   "source": 422,
-   "target": 423
-  },
-  {
-   "source": 422,
-   "target": 424
-  },
-  {
-   "source": 422,
-   "target": 425
-  },
-  {
-   "source": 422,
-   "target": 426
-  },
-  {
-   "source": 422,
-   "target": 427
-  },
-  {
-   "source": 422,
-   "target": 428
-  },
-  {
-   "source": 422,
-   "target": 429
-  },
-  {
-   "source": 422,
-   "target": 430
-  },
-  {
-   "source": 378,
-   "target": 461
-  },
-  {
-   "source": 378,
-   "target": 462
-  },
-  {
-   "source": 378,
-   "target": 466
-  },
-  {
-   "source": 378,
-   "target": 467
-  },
-  {
-   "source": 436,
-   "target": 437
-  },
-  {
-   "source": 437,
-   "target": 438
-  },
-  {
-   "source": 438,
-   "target": 439
-  },
-  {
-   "source": 438,
-   "target": 440
-  },
-  {
-   "source": 438,
-   "target": 441
-  },
-  {
-   "source": 438,
-   "target": 442
-  },
-  {
-   "source": 438,
-   "target": 443
-  },
-  {
-   "source": 438,
-   "target": 444
-  },
-  {
-   "source": 438,
-   "target": 445
-  },
-  {
-   "source": 438,
-   "target": 446
-  },
-  {
-   "source": 438,
-   "target": 447
-  },
-  {
-   "source": 438,
-   "target": 448
-  },
-  {
-   "source": 438,
-   "target": 449
-  },
-  {
-   "source": 438,
-   "target": 450
-  },
-  {
-   "source": 438,
-   "target": 451
-  },
-  {
-   "source": 438,
-   "target": 452
-  },
-  {
-   "source": 438,
-   "target": 453
-  },
-  {
-   "source": 438,
-   "target": 454
-  },
-  {
-   "source": 438,
-   "target": 455
-  },
-  {
-   "source": 438,
-   "target": 456
-  },
-  {
-   "source": 438,
-   "target": 457
-  },
-  {
-   "source": 438,
-   "target": 458
-  },
-  {
-   "source": 438,
-   "target": 459
-  },
-  {
-   "source": 438,
-   "target": 460
-  },
-  {
-   "source": 438,
-   "target": 461
-  },
-  {
-   "source": 438,
-   "target": 462
-  },
-  {
-   "source": 438,
-   "target": 463
-  },
-  {
-   "source": 438,
-   "target": 464
-  },
-  {
-   "source": 438,
-   "target": 465
-  },
-  {
-   "source": 438,
-   "target": 466
-  },
-  {
-   "source": 438,
-   "target": 467
-  },
-  {
-   "source": 437,
-   "target": 468
-  },
-  {
-   "source": 468,
-   "target": 469
-  },
-  {
-   "source": 468,
-   "target": 470
-  },
-  {
-   "source": 468,
-   "target": 471
-  },
-  {
-   "source": 468,
-   "target": 472
-  },
-  {
-   "source": 468,
-   "target": 473
-  },
-  {
-   "source": 468,
-   "target": 474
-  },
-  {
-   "source": 468,
-   "target": 475
-  },
-  {
-   "source": 468,
-   "target": 476
-  },
-  {
-   "source": 437,
-   "target": 477
-  },
-  {
-   "source": 477,
-   "target": 478
-  },
-  {
-   "source": 477,
-   "target": 479
-  },
-  {
-   "source": 477,
-   "target": 480
-  },
-  {
-   "source": 477,
-   "target": 481
-  },
-  {
-   "source": 477,
-   "target": 482
-  },
-  {
-   "source": 477,
-   "target": 483
-  },
-  {
-   "source": 477,
-   "target": 484
-  },
-  {
-   "source": 477,
-   "target": 485
-  },
-  {
-   "source": 477,
-   "target": 486
-  },
-  {
-   "source": 477,
-   "target": 487
-  },
-  {
-   "source": 477,
-   "target": 488
-  },
-  {
-   "source": 477,
-   "target": 489
-  },
-  {
-   "source": 477,
-   "target": 490
-  },
-  {
-   "source": 477,
-   "target": 491
-  },
-  {
-   "source": 477,
-   "target": 492
-  },
-  {
-   "source": 477,
-   "target": 493
-  },
-  {
-   "source": 436,
-   "target": 494
-  },
-  {
-   "source": 494,
-   "target": 495
-  },
-  {
-   "source": 494,
-   "target": 496
-  },
-  {
-   "source": 494,
-   "target": 497
-  },
-  {
-   "source": 494,
-   "target": 498
-  },
-  {
-   "source": 494,
-   "target": 499
-  },
-  {
-   "source": 494,
-   "target": 500
-  },
-  {
-   "source": 494,
-   "target": 501
-  },
-  {
-   "source": 494,
-   "target": 502
-  },
-  {
-   "source": 494,
-   "target": 503
-  },
-  {
-   "source": 494,
-   "target": 504
-  },
-  {
-   "source": 494,
-   "target": 505
-  },
-  {
-   "source": 436,
-   "target": 506
-  },
-  {
-   "source": 506,
-   "target": 507
-  },
-  {
-   "source": 506,
-   "target": 508
-  },
-  {
-   "source": 506,
-   "target": 509
-  },
-  {
-   "source": 506,
-   "target": 510
-  },
-  {
-   "source": 506,
-   "target": 511
-  },
-  {
-   "source": 506,
-   "target": 512
-  },
-  {
-   "source": 506,
-   "target": 513
-  },
-  {
-   "source": 506,
-   "target": 514
-  },
-  {
-   "source": 506,
-   "target": 515
-  },
-  {
-   "source": 436,
-   "target": 516
-  },
-  {
-   "source": 436,
-   "target": 517
-  },
-  {
-   "source": 436,
-   "target": 518
-  },
-  {
-   "source": 436,
-   "target": 519
-  },
-  {
-   "source": 436,
-   "target": 520
-  },
-  {
-   "source": 436,
-   "target": 521
-  },
-  {
-   "source": 436,
-   "target": 522
-  },
-  {
-   "source": 436,
-   "target": 523
-  },
-  {
-   "source": 524,
-   "target": 525
-  },
-  {
-   "source": 524,
-   "target": 526
-  },
-  {
-   "source": 524,
-   "target": 527
-  },
-  {
-   "source": 524,
-   "target": 528
-  },
-  {
-   "source": 524,
-   "target": 529
-  },
-  {
-   "source": 524,
-   "target": 530
-  },
-  {
-   "source": 524,
-   "target": 531
-  },
-  {
-   "source": 524,
-   "target": 532
-  },
-  {
-   "source": 524,
-   "target": 533
-  },
-  {
-   "source": 524,
-   "target": 534
-  },
-  {
-   "source": 558,
-   "target": 541
-  },
-  {
-   "source": 558,
-   "target": 542
-  },
-  {
-   "source": 558,
-   "target": 543
-  },
-  {
-   "source": 558,
-   "target": 544
-  },
-  {
-   "source": 558,
-   "target": 545
-  },
-  {
-   "source": 558,
-   "target": 546
-  },
-  {
-   "source": 558,
-   "target": 547
-  },
-  {
-   "source": 558,
-   "target": 548
-  },
-  {
-   "source": 558,
-   "target": 549
-  },
-  {
-   "source": 558,
-   "target": 550
-  },
-  {
-   "source": 558,
-   "target": 551
-  },
-  {
-   "source": 558,
-   "target": 552
-  },
-  {
-   "source": 558,
-   "target": 553
-  },
-  {
-   "source": 558,
-   "target": 554
-  },
-  {
-   "source": 558,
-   "target": 555
-  },
-  {
-   "source": 558,
-   "target": 556
-  },
-  {
-   "source": 558,
-   "target": 557
-  },
-  {
-   "source": 535,
-   "target": 0
-  },
-  {
-   "source": 536,
-   "target": 0
-  },
-  {
-   "source": 537,
-   "target": 0
-  },
-  {
-   "source": 538,
-   "target": 0
-  },
-  {
-   "source": 539,
-   "target": 0
-  },
-  {
-   "source": 540,
-   "target": 0
-  },
-  {
-   "source": 535,
-   "target": 558
-  },
-  {
-   "source": 536,
-   "target": 558
-  },
-  {
-   "source": 537,
-   "target": 558
-  },
-  {
-   "source": 538,
-   "target": 558
-  },
-  {
-   "source": 539,
-   "target": 558
-  },
-  {
-   "source": 540,
-   "target": 558
-  },
-  {
-   "source": 0,
-   "target": 558
+   "source": 295,
+   "target": 1.0
   }
  ],
  "nodes": [
-  {
-   "group": "Region",
-   "name": "World"
-  },
   {
    "group": "Country",
    "name": "Antarctica"
@@ -2248,7 +1960,43 @@
   },
   {
    "group": "Region",
+   "name": "Americas"
+  },
+  {
+   "group": "Region",
+   "name": "Europe"
+  },
+  {
+   "group": "Region",
+   "name": "Asia"
+  },
+  {
+   "group": "Region",
+   "name": "Oceania"
+  },
+  {
+   "group": "Region",
+   "name": "Central and Southern Asia"
+  },
+  {
+   "group": "Region",
+   "name": "Europe and Northern America"
+  },
+  {
+   "group": "Region",
+   "name": "Northern Africa and Western Asia"
+  },
+  {
+   "group": "Region",
+   "name": "Eastern and South-Eastern Asia"
+  },
+  {
+   "group": "Region",
    "name": "Northern Africa"
+  },
+  {
+   "group": "Region",
+   "name": "Sub-Saharan Africa"
   },
   {
    "group": "Country",
@@ -2280,11 +2028,19 @@
   },
   {
    "group": "Region",
-   "name": "Sub-Saharan Africa"
+   "name": "Eastern Africa"
   },
   {
    "group": "Region",
-   "name": "Eastern Africa"
+   "name": "Middle Africa"
+  },
+  {
+   "group": "Region",
+   "name": "Southern Africa"
+  },
+  {
+   "group": "Region",
+   "name": "Western Africa"
   },
   {
    "group": "Country",
@@ -2379,10 +2135,6 @@
    "name": "Sudan [former]"
   },
   {
-   "group": "Region",
-   "name": "Middle Africa"
-  },
-  {
    "group": "Country",
    "name": "Angola"
   },
@@ -2415,10 +2167,6 @@
    "name": "Sao Tome and Principe"
   },
   {
-   "group": "Region",
-   "name": "Southern Africa"
-  },
-  {
    "group": "Country",
    "name": "Botswana"
   },
@@ -2437,10 +2185,6 @@
   {
    "group": "Country",
    "name": "Eswatini"
-  },
-  {
-   "group": "Region",
-   "name": "Western Africa"
   },
   {
    "group": "Country",
@@ -2516,15 +2260,23 @@
   },
   {
    "group": "Region",
-   "name": "Americas"
-  },
-  {
-   "group": "Region",
    "name": "Latin America and the Caribbean"
   },
   {
    "group": "Region",
+   "name": "Northern America"
+  },
+  {
+   "group": "Region",
    "name": "Caribbean"
+  },
+  {
+   "group": "Region",
+   "name": "Central America"
+  },
+  {
+   "group": "Region",
+   "name": "South America"
   },
   {
    "group": "Country",
@@ -2643,10 +2395,6 @@
    "name": "United States Virgin Islands"
   },
   {
-   "group": "Region",
-   "name": "Central America"
-  },
-  {
    "group": "Country",
    "name": "Belize"
   },
@@ -2677,10 +2425,6 @@
   {
    "group": "Country",
    "name": "Panama"
-  },
-  {
-   "group": "Region",
-   "name": "South America"
   },
   {
    "group": "Country",
@@ -2747,10 +2491,6 @@
    "name": "Venezuela (Bolivarian Republic of)"
   },
   {
-   "group": "Region",
-   "name": "Northern America"
-  },
-  {
    "group": "Country",
    "name": "Bermuda"
   },
@@ -2772,11 +2512,19 @@
   },
   {
    "group": "Region",
-   "name": "Europe"
+   "name": "Eastern Europe"
   },
   {
    "group": "Region",
-   "name": "Eastern Europe"
+   "name": "Northern Europe"
+  },
+  {
+   "group": "Region",
+   "name": "Southern Europe"
+  },
+  {
+   "group": "Region",
+   "name": "Western Europe"
   },
   {
    "group": "Country",
@@ -2821,10 +2569,6 @@
   {
    "group": "Country",
    "name": "Kosovo"
-  },
-  {
-   "group": "Region",
-   "name": "Northern Europe"
   },
   {
    "group": "Country",
@@ -2888,18 +2632,6 @@
   },
   {
    "group": "Country",
-   "name": "Guernsey"
-  },
-  {
-   "group": "Country",
-   "name": "Jersey"
-  },
-  {
-   "group": "Country",
-   "name": "Sark"
-  },
-  {
-   "group": "Country",
    "name": "United Kingdom (England and Wales)"
   },
   {
@@ -2911,8 +2643,16 @@
    "name": "United Kingdom (Scotland)"
   },
   {
-   "group": "Region",
-   "name": "Southern Europe"
+   "group": "Country",
+   "name": "Guernsey"
+  },
+  {
+   "group": "Country",
+   "name": "Jersey"
+  },
+  {
+   "group": "Country",
+   "name": "Sark"
   },
   {
    "group": "Country",
@@ -2983,10 +2723,6 @@
    "name": "Serbia and Montenegro [former]"
   },
   {
-   "group": "Region",
-   "name": "Western Europe"
-  },
-  {
    "group": "Country",
    "name": "Austria"
   },
@@ -3024,11 +2760,27 @@
   },
   {
    "group": "Region",
-   "name": "Asia"
+   "name": "Central Asia"
   },
   {
    "group": "Region",
-   "name": "Central Asia"
+   "name": "Eastern Asia"
+  },
+  {
+   "group": "Region",
+   "name": "South-Eastern Asia"
+  },
+  {
+   "group": "Region",
+   "name": "Southern Asia"
+  },
+  {
+   "group": "Region",
+   "name": "Western Asia"
+  },
+  {
+   "group": "Region",
+   "name": "Eastern Asia (excluding Japan and China)"
   },
   {
    "group": "Country",
@@ -3049,10 +2801,6 @@
   {
    "group": "Country",
    "name": "Uzbekistan"
-  },
-  {
-   "group": "Region",
-   "name": "Eastern Asia"
   },
   {
    "group": "Country",
@@ -3085,10 +2833,6 @@
   {
    "group": "Country",
    "name": "Other non-specified areas"
-  },
-  {
-   "group": "Region",
-   "name": "South-Eastern Asia"
   },
   {
    "group": "Country",
@@ -3135,10 +2879,6 @@
    "name": "Viet Nam"
   },
   {
-   "group": "Region",
-   "name": "Southern Asia"
-  },
-  {
    "group": "Country",
    "name": "Afghanistan"
   },
@@ -3173,10 +2913,6 @@
   {
    "group": "Country",
    "name": "Sri Lanka"
-  },
-  {
-   "group": "Region",
-   "name": "Western Asia"
   },
   {
    "group": "Country",
@@ -3260,15 +2996,23 @@
   },
   {
    "group": "Region",
-   "name": "Eastern Asia (excluding Japan and China)"
-  },
-  {
-   "group": "Region",
-   "name": "Oceania"
-  },
-  {
-   "group": "Region",
    "name": "Australia and New Zealand"
+  },
+  {
+   "group": "Region",
+   "name": "Melanesia"
+  },
+  {
+   "group": "Region",
+   "name": "Micronesia"
+  },
+  {
+   "group": "Region",
+   "name": "Polynesia"
+  },
+  {
+   "group": "Region",
+   "name": "Oceania (exc. Australia and New Zealand)"
   },
   {
    "group": "Country",
@@ -3295,10 +3039,6 @@
    "name": "Norfolk Island"
   },
   {
-   "group": "Region",
-   "name": "Melanesia"
-  },
-  {
    "group": "Country",
    "name": "Fiji"
   },
@@ -3317,10 +3057,6 @@
   {
    "group": "Country",
    "name": "Vanuatu"
-  },
-  {
-   "group": "Region",
-   "name": "Micronesia"
   },
   {
    "group": "Country",
@@ -3353,10 +3089,6 @@
   {
    "group": "Country",
    "name": "United States Minor Outlying Islands"
-  },
-  {
-   "group": "Region",
-   "name": "Polynesia"
   },
   {
    "group": "Country",
@@ -3399,980 +3131,8 @@
    "name": "Wallis and Futuna Islands"
   },
   {
-   "group": "Region",
-   "name": "Oceania (exc. Australia and New Zealand)"
-  },
-  {
-   "group": "Region",
-   "name": "Central and Southern Asia"
-  },
-  {
-   "group": "Region",
-   "name": "Europe and Northern America"
-  },
-  {
-   "group": "Region",
-   "name": "Northern Africa and Western Asia"
-  },
-  {
-   "group": "Region",
-   "name": "Eastern and South-Eastern Asia"
-  },
-  {
-   "group": "Region",
-   "name": "Least Developed Countries (LDC)"
-  },
-  {
-   "group": "Country",
-   "name": "Afghanistan"
-  },
-  {
-   "group": "Country",
-   "name": "Angola"
-  },
-  {
-   "group": "Country",
-   "name": "Bangladesh"
-  },
-  {
-   "group": "Country",
-   "name": "Benin"
-  },
-  {
-   "group": "Country",
-   "name": "Bhutan"
-  },
-  {
-   "group": "Country",
-   "name": "Burkina Faso"
-  },
-  {
-   "group": "Country",
-   "name": "Burundi"
-  },
-  {
-   "group": "Country",
-   "name": "Cambodia"
-  },
-  {
-   "group": "Country",
-   "name": "Central African Republic"
-  },
-  {
-   "group": "Country",
-   "name": "Chad"
-  },
-  {
-   "group": "Country",
-   "name": "Comoros"
-  },
-  {
-   "group": "Country",
-   "name": "Democratic Republic of the Congo"
-  },
-  {
-   "group": "Country",
-   "name": "Djibouti"
-  },
-  {
-   "group": "Country",
-   "name": "Equatorial Guinea"
-  },
-  {
-   "group": "Country",
-   "name": "Eritrea"
-  },
-  {
-   "group": "Country",
-   "name": "Ethiopia"
-  },
-  {
-   "group": "Country",
-   "name": "Gambia"
-  },
-  {
-   "group": "Country",
-   "name": "Guinea"
-  },
-  {
-   "group": "Country",
-   "name": "Guinea-Bissau"
-  },
-  {
-   "group": "Country",
-   "name": "Haiti"
-  },
-  {
-   "group": "Country",
-   "name": "Kiribati"
-  },
-  {
-   "group": "Country",
-   "name": "Lao People's Democratic Republic"
-  },
-  {
-   "group": "Country",
-   "name": "Lesotho"
-  },
-  {
-   "group": "Country",
-   "name": "Liberia"
-  },
-  {
-   "group": "Country",
-   "name": "Madagascar"
-  },
-  {
-   "group": "Country",
-   "name": "Malawi"
-  },
-  {
-   "group": "Country",
-   "name": "Mali"
-  },
-  {
-   "group": "Country",
-   "name": "Mauritania"
-  },
-  {
-   "group": "Country",
-   "name": "Mozambique"
-  },
-  {
-   "group": "Country",
-   "name": "Myanmar"
-  },
-  {
-   "group": "Country",
-   "name": "Nepal"
-  },
-  {
-   "group": "Country",
-   "name": "Niger"
-  },
-  {
-   "group": "Country",
-   "name": "Rwanda"
-  },
-  {
-   "group": "Country",
-   "name": "Sao Tome and Principe"
-  },
-  {
-   "group": "Country",
-   "name": "Senegal"
-  },
-  {
-   "group": "Country",
-   "name": "Sierra Leone"
-  },
-  {
-   "group": "Country",
-   "name": "Solomon Islands"
-  },
-  {
-   "group": "Country",
-   "name": "Somalia"
-  },
-  {
-   "group": "Country",
-   "name": "South Sudan"
-  },
-  {
-   "group": "Country",
-   "name": "Sudan"
-  },
-  {
-   "group": "Country",
-   "name": "United Republic of Tanzania"
-  },
-  {
-   "group": "Country",
-   "name": "Timor-Leste"
-  },
-  {
-   "group": "Country",
-   "name": "Togo"
-  },
-  {
-   "group": "Country",
-   "name": "Tuvalu"
-  },
-  {
-   "group": "Country",
-   "name": "Uganda"
-  },
-  {
-   "group": "Country",
-   "name": "Vanuatu"
-  },
-  {
-   "group": "Country",
-   "name": "Yemen"
-  },
-  {
-   "group": "Country",
-   "name": "Zambia"
-  },
-  {
-   "group": "Region",
-   "name": "Land Locked Developing Countries (LLDC)"
-  },
-  {
-   "group": "Country",
-   "name": "Afghanistan"
-  },
-  {
-   "group": "Country",
-   "name": "Armenia"
-  },
-  {
-   "group": "Country",
-   "name": "Azerbaijan"
-  },
-  {
-   "group": "Country",
-   "name": "Bhutan"
-  },
-  {
-   "group": "Country",
-   "name": "Bolivia (Plurinational State of)"
-  },
-  {
-   "group": "Country",
-   "name": "Botswana"
-  },
-  {
-   "group": "Country",
-   "name": "Burkina Faso"
-  },
-  {
-   "group": "Country",
-   "name": "Burundi"
-  },
-  {
-   "group": "Country",
-   "name": "Central African Republic"
-  },
-  {
-   "group": "Country",
-   "name": "Chad"
-  },
-  {
-   "group": "Country",
-   "name": "Ethiopia"
-  },
-  {
-   "group": "Country",
-   "name": "Kazakhstan"
-  },
-  {
-   "group": "Country",
-   "name": "Kyrgyzstan"
-  },
-  {
-   "group": "Country",
-   "name": "Lao People's Democratic Republic"
-  },
-  {
-   "group": "Country",
-   "name": "Lesotho"
-  },
-  {
-   "group": "Country",
-   "name": "North Macedonia"
-  },
-  {
-   "group": "Country",
-   "name": "Malawi"
-  },
-  {
-   "group": "Country",
-   "name": "Mali"
-  },
-  {
-   "group": "Country",
-   "name": "Republic of Moldova"
-  },
-  {
-   "group": "Country",
-   "name": "Mongolia"
-  },
-  {
-   "group": "Country",
-   "name": "Nepal"
-  },
-  {
-   "group": "Country",
-   "name": "Niger"
-  },
-  {
-   "group": "Country",
-   "name": "Paraguay"
-  },
-  {
-   "group": "Country",
-   "name": "Rwanda"
-  },
-  {
-   "group": "Country",
-   "name": "South Sudan"
-  },
-  {
-   "group": "Country",
-   "name": "Eswatini"
-  },
-  {
-   "group": "Country",
-   "name": "Tajikistan"
-  },
-  {
-   "group": "Country",
-   "name": "Turkmenistan"
-  },
-  {
-   "group": "Country",
-   "name": "Uganda"
-  },
-  {
-   "group": "Country",
-   "name": "Uzbekistan"
-  },
-  {
-   "group": "Country",
-   "name": "Zambia"
-  },
-  {
-   "group": "Country",
-   "name": "Zimbabwe"
-  },
-  {
-   "group": "Region",
-   "name": "Small Island Developing States (SIDS)"
-  },
-  {
-   "group": "Country",
-   "name": "American Samoa"
-  },
-  {
-   "group": "Country",
-   "name": "Anguilla"
-  },
-  {
-   "group": "Country",
-   "name": "Antigua and Barbuda"
-  },
-  {
-   "group": "Country",
-   "name": "Aruba"
-  },
-  {
-   "group": "Country",
-   "name": "Bahamas"
-  },
-  {
-   "group": "Country",
-   "name": "Barbados"
-  },
-  {
-   "group": "Country",
-   "name": "Belize"
-  },
-  {
-   "group": "Country",
-   "name": "British Virgin Islands"
-  },
-  {
-   "group": "Country",
-   "name": "Cabo Verde"
-  },
-  {
-   "group": "Country",
-   "name": "Comoros"
-  },
-  {
-   "group": "Country",
-   "name": "Cook Islands"
-  },
-  {
-   "group": "Country",
-   "name": "Cuba"
-  },
-  {
-   "group": "Country",
-   "name": "Dominica"
-  },
-  {
-   "group": "Country",
-   "name": "Dominican Republic"
-  },
-  {
-   "group": "Country",
-   "name": "Fiji"
-  },
-  {
-   "group": "Country",
-   "name": "French Polynesia"
-  },
-  {
-   "group": "Country",
-   "name": "Grenada"
-  },
-  {
-   "group": "Country",
-   "name": "Guinea-Bissau"
-  },
-  {
-   "group": "Country",
-   "name": "Guyana"
-  },
-  {
-   "group": "Country",
-   "name": "Haiti"
-  },
-  {
-   "group": "Country",
-   "name": "Jamaica"
-  },
-  {
-   "group": "Country",
-   "name": "Kiribati"
-  },
-  {
-   "group": "Country",
-   "name": "Maldives"
-  },
-  {
-   "group": "Country",
-   "name": "Marshall Islands"
-  },
-  {
-   "group": "Country",
-   "name": "Mauritius"
-  },
-  {
-   "group": "Country",
-   "name": "Montserrat"
-  },
-  {
-   "group": "Country",
-   "name": "Nauru"
-  },
-  {
-   "group": "Country",
-   "name": "New Caledonia"
-  },
-  {
-   "group": "Country",
-   "name": "Niue"
-  },
-  {
-   "group": "Country",
-   "name": "Northern Mariana Islands"
-  },
-  {
-   "group": "Country",
-   "name": "Palau"
-  },
-  {
-   "group": "Country",
-   "name": "Papua New Guinea"
-  },
-  {
-   "group": "Country",
-   "name": "Puerto Rico"
-  },
-  {
-   "group": "Country",
-   "name": "Saint Kitts and Nevis"
-  },
-  {
-   "group": "Country",
-   "name": "Samoa"
-  },
-  {
-   "group": "Country",
-   "name": "Sao Tome and Principe"
-  },
-  {
-   "group": "Country",
-   "name": "Seychelles"
-  },
-  {
-   "group": "Country",
-   "name": "Singapore"
-  },
-  {
-   "group": "Country",
-   "name": "Solomon Islands"
-  },
-  {
-   "group": "Country",
-   "name": "Suriname"
-  },
-  {
-   "group": "Country",
-   "name": "Timor-Leste"
-  },
-  {
-   "group": "Country",
-   "name": "Tuvalu"
-  },
-  {
-   "group": "Country",
-   "name": "Vanuatu"
-  },
-  {
-   "group": "Region",
-   "name": "Micronesia"
-  },
-  {
-   "group": "Country",
-   "name": "Guam"
-  },
-  {
-   "group": "Country",
-   "name": "Kiribati"
-  },
-  {
-   "group": "Country",
-   "name": "Marshall Islands"
-  },
-  {
-   "group": "Country",
-   "name": "Micronesia (Federated States of)"
-  },
-  {
-   "group": "Country",
-   "name": "Nauru"
-  },
-  {
-   "group": "Country",
-   "name": "Northern Mariana Islands"
-  },
-  {
-   "group": "Country",
-   "name": "Palau"
-  },
-  {
-   "group": "Country",
-   "name": "United States Minor Outlying Islands"
-  },
-  {
-   "group": "Country",
-   "name": "Bonaire, Sint Eustatius and Saba"
-  },
-  {
-   "group": "Country",
-   "name": "Cura\u00e7ao"
-  },
-  {
-   "group": "Country",
-   "name": "Sint Maarten (Dutch part)"
-  },
-  {
-   "group": "Country",
-   "name": "United States Virgin Islands"
-  },
-  {
-   "group": "Region",
-   "name": "Developed Regions"
-  },
-  {
-   "group": "Region",
-   "name": "Developing Regions"
-  },
-  {
-   "group": "Region",
-   "name": "Latin America and the Caribbean"
-  },
-  {
-   "group": "Region",
-   "name": "Caribbean"
-  },
-  {
-   "group": "Country",
-   "name": "Anguilla"
-  },
-  {
-   "group": "Country",
-   "name": "Antigua and Barbuda"
-  },
-  {
-   "group": "Country",
-   "name": "Aruba"
-  },
-  {
-   "group": "Country",
-   "name": "Bahamas"
-  },
-  {
-   "group": "Country",
-   "name": "Barbados"
-  },
-  {
-   "group": "Country",
-   "name": "British Virgin Islands"
-  },
-  {
-   "group": "Country",
-   "name": "Cayman Islands"
-  },
-  {
-   "group": "Country",
-   "name": "Cuba"
-  },
-  {
-   "group": "Country",
-   "name": "Dominica"
-  },
-  {
-   "group": "Country",
-   "name": "Dominican Republic"
-  },
-  {
-   "group": "Country",
-   "name": "Grenada"
-  },
-  {
-   "group": "Country",
-   "name": "Guadeloupe"
-  },
-  {
-   "group": "Country",
-   "name": "Haiti"
-  },
-  {
-   "group": "Country",
-   "name": "Jamaica"
-  },
-  {
-   "group": "Country",
-   "name": "Martinique"
-  },
-  {
-   "group": "Country",
-   "name": "Montserrat"
-  },
-  {
-   "group": "Country",
-   "name": "Netherlands Antilles"
-  },
-  {
-   "group": "Country",
-   "name": "Puerto Rico"
-  },
-  {
-   "group": "Country",
-   "name": "Saint Kitts and Nevis"
-  },
-  {
-   "group": "Country",
-   "name": "Saint Lucia"
-  },
-  {
-   "group": "Country",
-   "name": "Trinidad and Tobago"
-  },
-  {
-   "group": "Country",
-   "name": "Turks and Caicos Islands"
-  },
-  {
-   "group": "Country",
-   "name": "Bonaire, Sint Eustatius and Saba"
-  },
-  {
-   "group": "Country",
-   "name": "Cura\u00e7ao"
-  },
-  {
-   "group": "Country",
-   "name": "Saint Barth\u00e9lemy"
-  },
-  {
-   "group": "Country",
-   "name": "Saint Martin (French Part)"
-  },
-  {
-   "group": "Country",
-   "name": "Saint Vincent and the Grenadines"
-  },
-  {
-   "group": "Country",
-   "name": "Sint Maarten (Dutch part)"
-  },
-  {
-   "group": "Country",
-   "name": "United States Virgin Islands"
-  },
-  {
-   "group": "Region",
-   "name": "Central America"
-  },
-  {
-   "group": "Country",
-   "name": "Belize"
-  },
-  {
-   "group": "Country",
-   "name": "Costa Rica"
-  },
-  {
-   "group": "Country",
-   "name": "El Salvador"
-  },
-  {
-   "group": "Country",
-   "name": "Guatemala"
-  },
-  {
-   "group": "Country",
-   "name": "Honduras"
-  },
-  {
-   "group": "Country",
-   "name": "Mexico"
-  },
-  {
-   "group": "Country",
-   "name": "Nicaragua"
-  },
-  {
-   "group": "Country",
-   "name": "Panama"
-  },
-  {
-   "group": "Region",
-   "name": "South America"
-  },
-  {
-   "group": "Country",
-   "name": "Argentina"
-  },
-  {
-   "group": "Country",
-   "name": "Bolivia (Plurinational State of)"
-  },
-  {
-   "group": "Country",
-   "name": "Bouvet Island"
-  },
-  {
-   "group": "Country",
-   "name": "Brazil"
-  },
-  {
-   "group": "Country",
-   "name": "Chile"
-  },
-  {
-   "group": "Country",
-   "name": "Colombia"
-  },
-  {
-   "group": "Country",
-   "name": "Ecuador"
-  },
-  {
-   "group": "Country",
-   "name": "Falkland Islands (Malvinas)"
-  },
-  {
-   "group": "Country",
-   "name": "French Guiana"
-  },
-  {
-   "group": "Country",
-   "name": "Guyana"
-  },
-  {
-   "group": "Country",
-   "name": "Paraguay"
-  },
-  {
-   "group": "Country",
-   "name": "Peru"
-  },
-  {
-   "group": "Country",
-   "name": "South Georgia and the South Sandwich Islands"
-  },
-  {
-   "group": "Country",
-   "name": "Suriname"
-  },
-  {
-   "group": "Country",
-   "name": "Uruguay"
-  },
-  {
-   "group": "Country",
-   "name": "Venezuela (Bolivarian Republic of)"
-  },
-  {
-   "group": "Region",
-   "name": "South-Eastern Asia"
-  },
-  {
-   "group": "Country",
-   "name": "Brunei Darussalam"
-  },
-  {
-   "group": "Country",
-   "name": "Cambodia"
-  },
-  {
-   "group": "Country",
-   "name": "Indonesia"
-  },
-  {
-   "group": "Country",
-   "name": "Lao People's Democratic Republic"
-  },
-  {
-   "group": "Country",
-   "name": "Malaysia"
-  },
-  {
-   "group": "Country",
-   "name": "Myanmar"
-  },
-  {
-   "group": "Country",
-   "name": "Philippines"
-  },
-  {
-   "group": "Country",
-   "name": "Singapore"
-  },
-  {
-   "group": "Country",
-   "name": "Thailand"
-  },
-  {
-   "group": "Country",
-   "name": "Timor-Leste"
-  },
-  {
-   "group": "Country",
-   "name": "Viet Nam"
-  },
-  {
-   "group": "Region",
-   "name": "Southern Asia"
-  },
-  {
-   "group": "Country",
-   "name": "Afghanistan"
-  },
-  {
-   "group": "Country",
-   "name": "Bangladesh"
-  },
-  {
-   "group": "Country",
-   "name": "Bhutan"
-  },
-  {
-   "group": "Country",
-   "name": "India"
-  },
-  {
-   "group": "Country",
-   "name": "Iran (Islamic Republic of)"
-  },
-  {
-   "group": "Country",
-   "name": "Maldives"
-  },
-  {
-   "group": "Country",
-   "name": "Nepal"
-  },
-  {
-   "group": "Country",
-   "name": "Pakistan"
-  },
-  {
-   "group": "Country",
-   "name": "Sri Lanka"
-  },
-  {
-   "group": "Region",
-   "name": "Southern Asia (excluding India)"
-  },
-  {
-   "group": "Region",
-   "name": "Caucasus and Central Asia"
-  },
-  {
-   "group": "Region",
-   "name": "Eastern Asia (excluding Japan and China)"
-  },
-  {
-   "group": "Region",
-   "name": "Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)"
-  },
-  {
-   "group": "Region",
-   "name": "Eastern Asia (excluding Japan)"
-  },
-  {
-   "group": "Region",
-   "name": "Oceania (exc. Australia and New Zealand)"
-  },
-  {
-   "group": "Region",
-   "name": "Sub-Saharan Africa (inc. Sudan)"
-  },
-  {
-   "group": "Region",
-   "name": "Northern Africa (exc. Sudan)"
-  },
-  {
-   "group": "Region",
-   "name": "Custom groupings of data providers"
-  },
-  {
-   "group": "Region",
-   "name": "World Trade Organization (WTO) Member States"
-  },
-  {
-   "group": "Region",
-   "name": "Asia and the Pacific (ILO)"
-  },
-  {
-   "group": "Region",
-   "name": "North America (ILO)"
-  },
-  {
-   "group": "Region",
-   "name": "Other regions (ILO)"
-  },
-  {
-   "group": "Region",
-   "name": "WTO Developing Member States"
-  },
-  {
-   "group": "Region",
-   "name": "WTO Developed Member States"
-  },
-  {
-   "group": "Region",
-   "name": "International Centers (FAO)"
-  },
-  {
-   "group": "Region",
-   "name": "European Union (EU) Institutions"
-  },
-  {
-   "group": "Region",
-   "name": "European Union"
-  },
-  {
-   "group": "Region",
-   "name": "Regional Centres (FAO)"
+   "group": "World",
+   "name": "World"
   },
   {
    "group": "Ecosystem Capitals",
@@ -4467,8 +3227,680 @@
    "name": "Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development"
   },
   {
-   "group": "ZOL",
-   "name": "Zone of Life"
+   "group": "Targets",
+   "name": "By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
+  },
+  {
+   "group": "Targets",
+   "name": "Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters"
+  },
+  {
+   "group": "Targets",
+   "name": "Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions"
+  },
+  {
+   "group": "Targets",
+   "name": "Create sound policy frameworks at the national, regional and international levels, based on pro-poor and gender-sensitive development strategies, to support accelerated investment in poverty eradication actions"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, double the agricultural productivity and incomes of small-scale food producers, in particular women, indigenous peoples, family farmers, pastoralists and fishers, including through secure and equal access to land, other productive resources and inputs, knowledge, financial services, markets and opportunities for value addition and non-farm employment"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, that help maintain ecosystems, that strengthen capacity for adaptation to climate change, extreme weather, drought, flooding and other disasters and that progressively improve land and soil quality"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2020, maintain the genetic diversity of seeds, cultivated plants and farmed and domesticated animals and their related wild species, including through soundly managed and diversified seed and plant banks at the national, regional and international levels, and promote access to and fair and equitable sharing of benefits arising from the utilization of genetic resources and associated traditional knowledge, as internationally agreed"
+  },
+  {
+   "group": "Targets",
+   "name": "Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance agricultural productive capacity in developing countries, in particular least developed countries"
+  },
+  {
+   "group": "Targets",
+   "name": "Correct and prevent trade restrictions and distortions in world agricultural markets, including through the parallel elimination of all forms of agricultural export subsidies and all export measures with equivalent effect, in accordance with the mandate of the Doha Development Round"
+  },
+  {
+   "group": "Targets",
+   "name": "Adopt measures to ensure the proper functioning of food commodity markets and their derivatives and facilitate timely access to market information, including on food reserves, in order to help limit extreme food price volatility"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under-5 mortality to at least as low as 25 per 1,000 live births"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being"
+  },
+  {
+   "group": "Targets",
+   "name": "Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2020, halve the number of global deaths and injuries from road traffic accidents"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, ensure universal access to sexual and reproductive health-care services, including for family planning, information and education, and the integration of reproductive health into national strategies and programmes"
+  },
+  {
+   "group": "Targets",
+   "name": "Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination"
+  },
+  {
+   "group": "Targets",
+   "name": "Strengthen the implementation of the World Health Organization Framework Convention on Tobacco Control in all countries, as appropriate"
+  },
+  {
+   "group": "Targets",
+   "name": "Support the research and development of vaccines and medicines for the communicable and non-communicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines, in accordance with the Doha Declaration on the TRIPS Agreement and Public Health, which affirms the right of developing countries to use to the full the provisions in the Agreement on Trade-Related Aspects of Intellectual Property Rights regarding flexibilities to protect public health, and, in particular, provide access to medicines for all"
+  },
+  {
+   "group": "Targets",
+   "name": "Substantially increase health financing and the recruitment, development, training and retention of the health workforce in developing countries, especially in least developed countries and small island developing States"
+  },
+  {
+   "group": "Targets",
+   "name": "Strengthen the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre-primary education so that they are ready for primary education"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development"
+  },
+  {
+   "group": "Targets",
+   "name": "Build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2020, substantially expand globally the number of scholarships available to developing countries, in particular least developed countries, small island developing States and African countries, for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes, in developed countries and other developing countries"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States"
+  },
+  {
+   "group": "Targets",
+   "name": "End all forms of discrimination against all women and girls everywhere"
+  },
+  {
+   "group": "Targets",
+   "name": "Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation"
+  },
+  {
+   "group": "Targets",
+   "name": "Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation"
+  },
+  {
+   "group": "Targets",
+   "name": "Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate"
+  },
+  {
+   "group": "Targets",
+   "name": "Ensure women's full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life"
+  },
+  {
+   "group": "Targets",
+   "name": "Ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences"
+  },
+  {
+   "group": "Targets",
+   "name": "Undertake reforms to give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property, financial services, inheritance and natural resources, in accordance with national laws"
+  },
+  {
+   "group": "Targets",
+   "name": "Enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women"
+  },
+  {
+   "group": "Targets",
+   "name": "Adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality and the empowerment of all women and girls at all levels"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, achieve universal and equitable access to safe and affordable drinking water for all"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, rivers, aquifers and lakes"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, expand international cooperation and capacity-building support to developing countries in water- and sanitation-related activities and programmes, including water harvesting, desalination, water efficiency, wastewater treatment, recycling and reuse technologies"
+  },
+  {
+   "group": "Targets",
+   "name": "Support and strengthen the participation of local communities in improving water and sanitation management"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, ensure universal access to affordable, reliable and modern energy services"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, increase substantially the share of renewable energy in the global energy mix"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, double the global rate of improvement in energy efficiency"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, enhance international cooperation to facilitate access to clean energy research and technology, including renewable energy, energy efficiency and advanced and cleaner fossil-fuel technology, and promote investment in energy infrastructure and clean energy technology"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries, in particular least developed countries, small island developing States and landlocked developing countries, in accordance with their respective programmes of support"
+  },
+  {
+   "group": "Targets",
+   "name": "Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors"
+  },
+  {
+   "group": "Targets",
+   "name": "Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity and innovation, and encourage the formalization and growth of micro-, small- and medium-sized enterprises, including through access to financial services"
+  },
+  {
+   "group": "Targets",
+   "name": "Improve progressively, through 2030, global resource efficiency in consumption and production and endeavour to decouple economic growth from environmental degradation, in accordance with the 10-Year Framework of Programmes on Sustainable Consumption and Production, with developed countries taking the lead"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2020, substantially reduce the proportion of youth not in employment, education or training"
+  },
+  {
+   "group": "Targets",
+   "name": "Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms"
+  },
+  {
+   "group": "Targets",
+   "name": "Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries"
+  },
+  {
+   "group": "Targets",
+   "name": "Protect labour rights and promote safe and secure working environments for all workers, including migrant workers, in particular women migrants, and those in precarious employment"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, devise and implement policies to promote sustainable tourism that creates jobs and promotes local culture and products"
+  },
+  {
+   "group": "Targets",
+   "name": "Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all"
+  },
+  {
+   "group": "Targets",
+   "name": "Increase Aid for Trade support for developing countries, in particular least developed countries, including through the Enhanced Integrated Framework for Trade-related Technical Assistance to Least Developed Countries"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2020, develop and operationalize a global strategy for youth employment and implement the Global Jobs Pact of the International Labour Organization"
+  },
+  {
+   "group": "Targets",
+   "name": "Develop quality, reliable, sustainable and resilient infrastructure, including regional and trans-border infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all"
+  },
+  {
+   "group": "Targets",
+   "name": "Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry's share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries"
+  },
+  {
+   "group": "Targets",
+   "name": "Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to financial services, including affordable credit, and their integration into value chains and markets"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes, with all countries taking action in accordance with their respective capabilities"
+  },
+  {
+   "group": "Targets",
+   "name": "Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending"
+  },
+  {
+   "group": "Targets",
+   "name": "Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States"
+  },
+  {
+   "group": "Targets",
+   "name": "Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities"
+  },
+  {
+   "group": "Targets",
+   "name": "Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, progressively achieve and sustain income growth of the bottom 40 per cent of the population at a rate higher than the national average"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status"
+  },
+  {
+   "group": "Targets",
+   "name": "Ensure equal opportunity and reduce inequalities of outcome, including by eliminating discriminatory laws, policies and practices and promoting appropriate legislation, policies and action in this regard"
+  },
+  {
+   "group": "Targets",
+   "name": "Adopt policies, especially fiscal, wage and social protection policies, and progressively achieve greater equality"
+  },
+  {
+   "group": "Targets",
+   "name": "Improve the regulation and monitoring of global financial markets and institutions and strengthen the implementation of such regulations"
+  },
+  {
+   "group": "Targets",
+   "name": "Ensure enhanced representation and voice for developing countries in decision-making in global international economic and financial institutions in order to deliver more effective, credible, accountable and legitimate institutions"
+  },
+  {
+   "group": "Targets",
+   "name": "Facilitate orderly, safe, regular and responsible migration and mobility of people, including through the implementation of planned and well-managed migration policies"
+  },
+  {
+   "group": "Targets",
+   "name": "Implement the principle of special and differential treatment for developing countries, in particular least developed countries, in accordance with World Trade Organization agreements"
+  },
+  {
+   "group": "Targets",
+   "name": "Encourage official development assistance and financial flows, including foreign direct investment, to States where the need is greatest, in particular least developed countries, African countries, small island developing States and landlocked developing countries, in accordance with their national plans and programmes"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, reduce to less than 3 per cent the transaction costs of migrant remittances and eliminate remittance corridors with costs higher than 5 per cent"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, provide access to safe, affordable, accessible and sustainable transport systems for all, improving road safety, notably by expanding public transport, with special attention to the needs of those in vulnerable situations, women, children, persons with disabilities and older persons"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, enhance inclusive and sustainable urbanization and capacity for participatory, integrated and sustainable human settlement planning and management in all countries"
+  },
+  {
+   "group": "Targets",
+   "name": "Strengthen efforts to protect and safeguard the world's cultural and natural heritage"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, provide universal access to safe, inclusive and accessible, green and public spaces, in particular for women and children, older persons and persons with disabilities"
+  },
+  {
+   "group": "Targets",
+   "name": "Support positive economic, social and environmental links between urban, peri-urban and rural areas by strengthening national and regional development planning"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2020, substantially increase the number of cities and human settlements adopting and implementing integrated policies and plans towards inclusion, resource efficiency, mitigation and adaptation to climate change, resilience to disasters, and develop and implement, in line with the Sendai Framework for Disaster Risk Reduction 2015-2030, holistic disaster risk management at all levels"
+  },
+  {
+   "group": "Targets",
+   "name": "Support least developed countries, including through financial and technical assistance, in building sustainable and resilient buildings utilizing local materials"
+  },
+  {
+   "group": "Targets",
+   "name": "Implement the 10-Year Framework of Programmes on Sustainable Consumption and Production Patterns, all countries taking action, with developed countries taking the lead, taking into account the development and capabilities of developing countries"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, achieve the sustainable management and efficient use of natural resources"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains, including post-harvest losses"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, substantially reduce waste generation through prevention, reduction, recycling and reuse"
+  },
+  {
+   "group": "Targets",
+   "name": "Encourage companies, especially large and transnational companies, to adopt sustainable practices and to integrate sustainability information into their reporting cycle"
+  },
+  {
+   "group": "Targets",
+   "name": "Promote public procurement practices that are sustainable, in accordance with national policies and priorities"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, ensure that people everywhere have the relevant information and awareness for sustainable development and lifestyles in harmony with nature"
+  },
+  {
+   "group": "Targets",
+   "name": "Support developing countries to strengthen their scientific and technological capacity to move towards more sustainable patterns of consumption and production"
+  },
+  {
+   "group": "Targets",
+   "name": "Develop and implement tools to monitor sustainable development impacts for sustainable tourism that creates jobs and promotes local culture and products"
+  },
+  {
+   "group": "Targets",
+   "name": "Rationalize inefficient fossil-fuel subsidies that encourage wasteful consumption by removing market distortions, in accordance with national circumstances, including by restructuring taxation and phasing out those harmful subsidies, where they exist, to reflect their environmental impacts, taking fully into account the specific needs and conditions of developing countries and minimizing the possible adverse impacts on their development in a manner that protects the poor and the affected communities"
+  },
+  {
+   "group": "Targets",
+   "name": "Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries"
+  },
+  {
+   "group": "Targets",
+   "name": "Integrate climate change measures into national policies, strategies and planning"
+  },
+  {
+   "group": "Targets",
+   "name": "Improve education, awareness-raising and human and institutional capacity on climate change mitigation, adaptation, impact reduction and early warning"
+  },
+  {
+   "group": "Targets",
+   "name": "Implement the commitment undertaken by developed-country parties to the United Nations Framework Convention on Climate Change to a goal of mobilizing jointly $100 billion annually by 2020 from all sources to address the needs of developing countries in the context of meaningful mitigation actions and transparency on implementation and fully operationalize the Green Climate Fund through its capitalization as soon as possible"
+  },
+  {
+   "group": "Targets",
+   "name": "Promote mechanisms for raising capacity for effective climate change-related planning and management in least developed countries and small island developing States, including focusing on women, youth and local and marginalized communities"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2020, prohibit certain forms of fisheries subsidies which contribute to overcapacity and overfishing, eliminate subsidies that contribute to illegal, unreported and unregulated fishing and refrain from introducing new such subsidies, recognizing that appropriate and effective special and differential treatment for developing and least developed countries should be an integral part of the World Trade Organization fisheries subsidies negotiation [c]"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, increase the economic benefits to small island developing States and least developed countries from the sustainable use of marine resources, including through sustainable management of fisheries, aquaculture and tourism"
+  },
+  {
+   "group": "Targets",
+   "name": "Minimize and address the impacts of ocean acidification, including through enhanced scientific cooperation at all levels"
+  },
+  {
+   "group": "Targets",
+   "name": "Increase scientific knowledge, develop research capacity and transfer marine technology, taking into account the Intergovernmental Oceanographic Commission Criteria and Guidelines on the Transfer of Marine Technology, in order to improve ocean health and to enhance the contribution of marine biodiversity to the development of developing countries, in particular small island developing States and least developed countries"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield as determined by their biological characteristics"
+  },
+  {
+   "group": "Targets",
+   "name": "Provide access for small-scale artisanal fishers to marine resources and markets"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information"
+  },
+  {
+   "group": "Targets",
+   "name": "Enhance the conservation and sustainable use of oceans and their resources by implementing international law as reflected in the United Nations Convention on the Law of the Sea, which provides the legal framework for the conservation and sustainable use of oceans and their resources, as recalled in paragraph 158 of 'The future we want'"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land degradation-neutral world"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, ensure the conservation of mountain ecosystems, including their biodiversity, in order to enhance their capacity to provide benefits that are essential for sustainable development"
+  },
+  {
+   "group": "Targets",
+   "name": "Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species"
+  },
+  {
+   "group": "Targets",
+   "name": "Promote fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to such resources, as internationally agreed"
+  },
+  {
+   "group": "Targets",
+   "name": "Take urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2020, introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2020, integrate ecosystem and biodiversity values into national and local planning, development processes, poverty reduction strategies and accounts"
+  },
+  {
+   "group": "Targets",
+   "name": "Mobilize and significantly increase financial resources from all sources to conserve and sustainably use biodiversity and ecosystems"
+  },
+  {
+   "group": "Targets",
+   "name": "Mobilize significant resources from all sources and at all levels to finance sustainable forest management and provide adequate incentives to developing countries to advance such management, including for conservation and reforestation"
+  },
+  {
+   "group": "Targets",
+   "name": "Enhance global support for efforts to combat poaching and trafficking of protected species, including by increasing the capacity of local communities to pursue sustainable livelihood opportunities"
+  },
+  {
+   "group": "Targets",
+   "name": "Significantly reduce all forms of violence and related death rates everywhere"
+  },
+  {
+   "group": "Targets",
+   "name": "End abuse, exploitation, trafficking and all forms of violence against and torture of children"
+  },
+  {
+   "group": "Targets",
+   "name": "Promote the rule of law at the national and international levels and ensure equal access to justice for all"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, significantly reduce illicit financial and arms flows, strengthen the recovery and return of stolen assets and combat all forms of organized crime"
+  },
+  {
+   "group": "Targets",
+   "name": "Substantially reduce corruption and bribery in all their forms"
+  },
+  {
+   "group": "Targets",
+   "name": "Develop effective, accountable and transparent institutions at all levels"
+  },
+  {
+   "group": "Targets",
+   "name": "Ensure responsive, inclusive, participatory and representative decision-making at all levels"
+  },
+  {
+   "group": "Targets",
+   "name": "Broaden and strengthen the participation of developing countries in the institutions of global governance"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, provide legal identity for all, including birth registration"
+  },
+  {
+   "group": "Targets",
+   "name": "Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements"
+  },
+  {
+   "group": "Targets",
+   "name": "Strengthen relevant national institutions, including through international cooperation, for building capacity at all levels, in particular in developing countries, to prevent violence and combat terrorism and crime"
+  },
+  {
+   "group": "Targets",
+   "name": "Promote and enforce non-discriminatory laws and policies for sustainable development"
+  },
+  {
+   "group": "Targets",
+   "name": "Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection"
+  },
+  {
+   "group": "Targets",
+   "name": "Developed countries to implement fully their official development assistance commitments, including the commitment by many developed countries to achieve the target of 0.7 per cent of gross national income for official development assistance (ODA/GNI) to developing countries and 0.15 to 0.20 per cent of ODA/GNI to least developed countries; ODA providers are encouraged to consider setting a target to provide at least 0.20 per cent of ODA/GNI to least developed countries"
+  },
+  {
+   "group": "Targets",
+   "name": "Mobilize additional financial resources for developing countries from multiple sources"
+  },
+  {
+   "group": "Targets",
+   "name": "Assist developing countries in attaining long-term debt sustainability through coordinated policies aimed at fostering debt financing, debt relief and debt restructuring, as appropriate, and address the external debt of highly indebted poor countries to reduce debt distress"
+  },
+  {
+   "group": "Targets",
+   "name": "Adopt and implement investment promotion regimes for least developed countries"
+  },
+  {
+   "group": "Targets",
+   "name": "Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation and enhance knowledge-sharing on mutually agreed terms, including through improved coordination among existing mechanisms, in particular at the United Nations level, and through a global technology facilitation mechanism"
+  },
+  {
+   "group": "Targets",
+   "name": "Promote the development, transfer, dissemination and diffusion of environmentally sound technologies to developing countries on favourable terms, including on concessional and preferential terms, as mutually agreed"
+  },
+  {
+   "group": "Targets",
+   "name": "Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology"
+  },
+  {
+   "group": "Targets",
+   "name": "Enhance international support for implementing effective and targeted capacity-building in developing countries to support national plans to implement all the Sustainable Development Goals, including through North-South, South-South and triangular cooperation"
+  },
+  {
+   "group": "Targets",
+   "name": "Promote a universal, rules-based, open, non-discriminatory and equitable multilateral trading system under the World Trade Organization, including through the conclusion of negotiations under its Doha Development Agenda"
+  },
+  {
+   "group": "Targets",
+   "name": "Significantly increase the exports of developing countries, in particular with a view to doubling the least developed countries' share of global exports by 2020"
+  },
+  {
+   "group": "Targets",
+   "name": "Realize timely implementation of duty-free and quota-free market access on a lasting basis for all least developed countries, consistent with World Trade Organization decisions, including by ensuring that preferential rules of origin applicable to imports from least developed countries are transparent and simple, and contribute to facilitating market access"
+  },
+  {
+   "group": "Targets",
+   "name": "Enhance global macroeconomic stability, including through policy coordination and policy coherence"
+  },
+  {
+   "group": "Targets",
+   "name": "Enhance policy coherence for sustainable development"
+  },
+  {
+   "group": "Targets",
+   "name": "Respect each country's policy space and leadership to establish and implement policies for poverty eradication and sustainable development"
+  },
+  {
+   "group": "Targets",
+   "name": "Enhance the Global Partnership for Sustainable Development, complemented by multi-stakeholder partnerships that mobilize and share knowledge, expertise, technology and financial resources, to support the achievement of the Sustainable Development Goals in all countries, in particular developing countries"
+  },
+  {
+   "group": "Targets",
+   "name": "Encourage and promote effective public, public-private and civil society partnerships, building on the experience and resourcing strategies of partnerships"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2020, enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data disaggregated by income, gender, age, race, ethnicity, migratory status, disability, geographic location and other characteristics relevant in national contexts"
+  },
+  {
+   "group": "Targets",
+   "name": "By 2030, build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product, and support statistical capacity-building in developing countries"
   }
  ]
 }
