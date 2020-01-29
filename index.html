@@ -31,8 +31,8 @@ b {
     font-size: 10pt;
     font-weight: 900;
 
-    fill: #000000;
-    stroke: #ffffff;
+    fill: #ffffff;
+    stroke: #000000;
     stroke-width: 0.25px;
 }
 
@@ -53,6 +53,13 @@ b {
     stroke-weight: 4px;
     stroke-opacity: 1.0;
 }
+
+.title { font: bold 85px sans-serif; fill:white;}
+.subtitle { font: bold 21px sans-serif; fill:white;}
+.panel-footer.panel-custom {
+    background: #000000;
+    color: white;
+}
 </style>
 
 <script>
@@ -60,7 +67,7 @@ var width  = 1960;
 var height = 1500;
 var margin = 20;
 var pad = margin / 2;
-var color = d3.scale.category20();
+var color = d3.scale.schemeDark2();
 // Generates a tooltip for a SVG circle element based on its ID
 function addTooltip(circle) {
     var x = parseFloat(circle.attr("cx"));
@@ -114,7 +121,20 @@ function drawGraph(graph) {
     svg.append("rect")
         .attr("width", width)
         .attr("height", height)
-        .style("fill", "#eeeeee");
+        .style("fill", "#000000");
+
+    svg.append("text")
+				.attr("x",width/5.5)
+				.attr("y",height/2)
+				.attr('class','title')
+				.text("First Green Bank Network");
+    svg.append("text")
+				.attr("x",width/5.5)
+				.attr("y",height/2 + height/10)
+				.attr('class','subtitle')
+				.text("Using Exponential Technology to Mobilize Global Blended Finance in Alignment with the UN's 17 SDG's.");
+
+
     // create an area within svg for plotting graph
     var plot = svg.append("g")
         .attr("id", "plot")
@@ -169,7 +189,7 @@ function drawNodes(nodes) {
         .attr("id", function(d, i) { return d.name; })
         .attr("cx", function(d, i) { return d.x; })
         .attr("cy", function(d, i) { return d.y; })
-        .attr("r",  function(d, i) { return 4; })
+        .attr("r",  function(d, i) { return 5; })
         .style("fill",   function(d, i) { return color(d.group); })
         .on("mouseover", function(d, i) { addTooltip(d3.select(this)); })
         .on("mouseout",  function(d, i) { d3.select("#tooltip").remove(); });
@@ -200,10 +220,35 @@ function drawLinks(links) {
 }
 </script>
 </head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 
 <body>
 <div align="center" id="force"></div>
+<!-- <a href="https://informationisbeautiful.net/beautifulnews/839-cost-solar-wind" target="_blank"><img style="height:300px;width:auto;" src="https://s3.amazonaws.com/infobeautiful-bnews/images/839/839-cost-solar-wind.svg" alt="The Cost of Solar and Wind Energy is Plunging" /></a> -->
+<!-- <a href="https://informationisbeautiful.net/beautifulnews/584-usa-wind-power" target="_blank"><img style="height:300px;width:auto;" src="https://s3.amazonaws.com/infobeautiful-bnews/images/584/584-usa-wind-power.svg" alt="The USA Is Ripe for Wind Power" /></a> -->
+<!-- <a href="https://informationisbeautiful.net/beautifulnews/1085-china-renewables" target="_blank"><img style="height:300px;width:auto;" src="https://s3.amazonaws.com/infobeautiful-bnews/images/1085/1085-china-renewables.svg" alt="China could generate half its power from renewables by 2040" /></a> -->
+<!-- <a href="https://informationisbeautiful.net/beautifulnews/1079-us-power-grid" target="_blank"><img style="height:300px;width:auto;" src="https://s3.amazonaws.com/infobeautiful-bnews/images/1079/1079-us-power-grid.svg" alt="Just $4.5 Trillion Would Transform  -->
+<!--         the US Power Grid to 100% Renewables" /></a> -->
+<!-- <a href="https://informationisbeautiful.net/beautifulnews/455-california-energy-mix" target="_blank"><img style="height:300px;width:auto;" src="https://s3.amazonaws.com/infobeautiful-bnews/images/455/455-california-energy-mix.svg" alt="Almost Half of California's Electricity Now Comes From Renewables" /></a> -->
+<!-- <a href="https://informationisbeautiful.net/beautifulnews/1059-renewables-investment" target="_blank"><img style="height:300px;width:auto;" src="https://s3.amazonaws.com/infobeautiful-bnews/images/1059/1059-renewables-investment.svg" alt="We're Investing Twice as Much in Renewables vs Fossil Fuels" /></a> -->
+<!-- <a href="https://informationisbeautiful.net/beautifulnews/14-texas-energy-mix" target="_blank"><img style="height:300px;width:auto;" src="https://s3.amazonaws.com/infobeautiful-bnews/images/14/14-texas-energy-mix.svg" alt="Even Texas Is 32% Carbon Free" /></a> -->
+<!-- <a href="https://informationisbeautiful.net/beautifulnews/15-renewables-outpacing-coal" target="_blank"><img style="height:300px;width:auto;" src="https://s3.amazonaws.com/infobeautiful-bnews/images/15/15-renewables-outpacing-coal.svg" alt="Renewables Are Rapidly Outpacing Coal" /></a> -->
+<!-- <a href="https://informationisbeautiful.net/beautifulnews/586-cost-renewables-falling" target="_blank"><img style="height:300px;width:auto;" src="https://s3.amazonaws.com/infobeautiful-bnews/images/586/586-cost-renewables-falling.svg" alt="The Cost of Renewables Is Falling Fast" /></a> -->
+<!-- <a href="https://informationisbeautiful.net/beautifulnews/18-india-solar-capacity" target="_blank"><img style="height:300px;width:auto;" src="https://s3.amazonaws.com/infobeautiful-bnews/images/18/18-india-solar-capacity.svg" alt="India's Solar Power Capacity Quadruples" /></a> -->
+<!-- <a href="https://informationisbeautiful.net/beautifulnews/562-adding-more-solar-power" target="_blank"><img style="height:300px;width:auto;" src="https://s3.amazonaws.com/infobeautiful-bnews/images/562/562-adding-more-solar-power.svg" alt="Every Year We're Adding More and More Solar Power" /></a> -->
+<footer class="page-footer font-small  panel-footer panel-custom">
 
+  <!-- <div class="footer-copyright text-left py-3"> -->
+  <!-- Copyright -->
+  <div class="footer-copyright text-center py-3">© 2020 Copyright:
+					<a href="https://firstgreenbank.network"> firstgreenbank.network</a></br>
+					1631 Dickson Avenue Suite 1100 Kelowna British Columbia V1Y 0B5 Canada</br>
+					hello@firstgreenbank.network
+  </div>
+  <!-- Copyright -->
+
+</footer>
 <script>
 d3.json("pcap_export.json", drawGraph);
 </script>
